@@ -1,8 +1,8 @@
 # Negotiation
 
-Negotiation is a dialogue between two or more people or parties intended to reach a beneficial outcome over one or more issues where a conflict exists with respect to at least one of these issues. [10]
+> Negotiation is a dialogue between two or more people or parties intended to reach a beneficial outcome over one or more issues where a conflict exists with respect to at least one of these issues. [10]
 
-(seems to be) interesting reads
+## (seems to be) interesting reads
 
 - https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/
 - https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
@@ -15,12 +15,12 @@ Negotiation is a dialogue between two or more people or parties intended to reac
 - https://hbr.org/2014/06/how-to-negotiate-with-someone-more-powerful-than-you
 - https://www.theatlantic.com/business/archive/2015/04/ask-a-hostage-negotiator-whats-the-best-way-to-talk-about-a-raise/391943/
 
-Types: [10]
+## Types: [10]
 
 - Distributive negotiation / Zero sum game
 - Integrative negotiation / Non-zero-sum game / Win-win game
 
-Techniques: [10]
+## Techniques: [10]
 
 - Put yourself in their shoes
 - Discuss each other's perceptions
@@ -29,7 +29,7 @@ Techniques: [10]
 - Active listening
 - Speak for a purpose
 
-Conflict styles: [10]
+## Conflict styles: [10]
 
 - Accommodating
 - Avoiding
@@ -39,7 +39,7 @@ Conflict styles: [10]
 
 Types of negotiators: Soft, Hard, Principled [10]
 
-Tactics: [10]
+## Tactics: [10]
 
 - Auction
 - Brinksmanship
@@ -55,20 +55,20 @@ Tactics: [10]
 - Mirroring
 - Scotting
 
-Dealing with emotions [10]
+## Dealing with emotions [10]
 
 - Make emotions explicit and validate
 - Allow time to let off steam
 - Symbolic gestures
 
-Principled Negotiation [11]
+## Principled Negotiation [11]
 
 - Separate the people from the problem
 - Focus on interests, not positions
 - Invent options for mutual gain
 - Insist on using objective criteria
 
-Tips & Tricks
+## Tips & Tricks
 When we move every potential acquisition to the “it would be nice”, it means we know we have the power to walk away from a negotiation at any point. When we’re negotiating for a “it would be nice” item, we’re tapping into logic and keeping most emotions—those things that make us act in goofy and unpredictable ways—at bay. It turns us from suckers to deal makers because we become more patient, self-assured and less likely to look for the quick fix. [12]
 
 Want to know how strongly you or your counterpart wants something? Put a number on it. A number 1, for example is neutral, and 10 would be something you can’t live without. Hopefully this will lead to both parties eventually comprising or coming up with an alternative. This has allowed me in the past to be very direct with the other party in letting them know what I’m not willing to leave on the table. [13]
@@ -122,7 +122,7 @@ Uncover hidden agendas [23]
 
 Know your bottom line [23]
 
-collections of tips
+## collections of tips
 
 - https://www.inc.com/john-rampton/13-negotiation-techniques-that-never-fail.html
 - https://www.inc.com/darren-heitner/5-tips-to-winning-a-big-sports-negotiation.html?cid=sf01001
@@ -130,7 +130,7 @@ collections of tips
 - http://lifehacker.com/five-tips-to-negotiate-better-with-just-about-anyone-493106085
 - https://www.dailyworth.com/posts/1731-9-tricks-to-negotiate-anything
 
-To process
+## TODO: To process
 
 - http://www.how-to-negotiate.com/personal-negotiating/
 - https://en.wikipedia.org/wiki/Dispute_resolution
@@ -145,7 +145,7 @@ To process
 - The Harvard Negotiation Project https://www.pon.harvard.edu/category/research_projects/harvard-negotiation-project/ [10]
 - http://www.getrichslowly.org/blog/2009/12/08/you-can-negotiate-anything/
 
-Books:
+## Books
 
 - Getting to Yes -  Fisher et al [10]
 - "The Negotiator's Fieldbook: The Desk Reference for the Experienced Negotiator" - https://www.amazon.co.uk/gp/product/1590315456/
