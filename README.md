@@ -1,11 +1,25 @@
-# soft-skills (Negotiation, selling ideas, convincing others, etc)
+# [WIP] Soft Skills: negotiation, selling ideas, convincing others, etc
 
-Seed sentence: "Investigate possible learning sources about negotiation, selling and convincing others about your own solutions"
+## How it started
 
-Keywords
+During routine 1:1 meeting with my HR manager we agreed that it would be really beneficial for my further career to work harder on soft (professional / human) skills. That's why we formed an initial (seed sentence):
+
+> "Investigate possible learning sources about negotiation, selling and convincing others about your own solutions"
+
+Main focus was to collect online articles on topic.
+After initial research and some googling I had quite a big list of articles to process and some keywords I'm interested in.
+
+Initial work was done in Evernote app with periodic email share of progress with my manager. Later on I decided that it would be easier to manage work as Github repository. That's how this project started.
+
+### Keywords
+
 Primary: negotiation, selling ideas, convincing others
+
 Secondary: influence others, persuasion, assertiveness, reasoning, argumentation, pitching ideas,
+
 Tertiary: body language, conflict solving, story-telling, presenting, winning people, earn respect, gain appreciation, emotional intelligence, communication skills, body language, nonverbal communication, diplomacy, dispute resolution, leadership, haggle, conflict resolution
+
+## Negotiation
 
 Negotiation is a dialogue between two or more people or parties intended to reach a beneficial outcome over one or more issues where a conflict exists with respect to at least one of these issues. [10]
 
