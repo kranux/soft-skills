@@ -13,16 +13,47 @@ Initial work was done in Evernote app with periodic email check-in with my manag
 
 ### Keywords
 
-Primary: negotiation, selling ideas, convincing others
+#### Primary
 
-Secondary: influence others, persuasion, assertiveness, reasoning, argumentation, pitching ideas,
+- [Convincing others](#convincing-others)
+- [Negotiation](Negotiation.md)
+- [Selling ideas](#selling-ideas)
 
-Tertiary: body language, conflict solving, story-telling, presenting, winning people, earn respect, gain appreciation, emotional intelligence, communication skills, body language, nonverbal communication, diplomacy, dispute resolution, leadership, haggle, conflict resolution
+#### Secondary
 
-[Negotiation](Negotiation.md)
+- argumentation,
+- assertiveness,
+- influence others,
+- persuasion,
+- pitching ideas,
+- reasoning,
 
+#### Tertiary
 
-Selling ideas
+- body language,
+- communication skills,
+- conflict resolution
+- conflict solving,
+- diplomacy,
+- dispute resolution,
+- earn respect,
+- emotional intelligence,
+- gain appreciation,
+- haggle,
+- leadership,
+- nonverbal communication,
+- presenting,
+- story-telling,
+- winning people,
+
+## Convincing others
+
+- https://www.reddit.com/r/changemyview/ [9]
+- http://www.wikihow.com/Convince-Anyone-of-Anything
+- http://www.personalitytutor.com/how-to-convince-others.html
+- https://www.farnamstreetblog.com/2014/04/daniel-pink-to-sell-is-human/
+
+## Selling ideas
 
 - https://blog.hubspot.com/marketing/how-to-sell-ideas#sm.0000025b78z62ye1mrncutcqr8ehw
 - https://www.forbes.com/sites/theyec/2014/04/18/10-steps-for-giving-a-convincing-sales-pitch/#291449242102
@@ -37,13 +68,6 @@ Selling ideas
 - http://fortune.com/2013/12/20/10-ways-to-sell-your-best-ideas-at-work/
 - https://www.lynda.com/Business-Skills-tutorials/Selling-your-ideas/126132/171695-4.html
 - https://www.fastcompany.com/3031620/6-unconventional-tips-for-selling-your-big-ideas
-
-Convincing others
-
-- https://www.reddit.com/r/changemyview/ [9]
-- http://www.wikihow.com/Convince-Anyone-of-Anything
-- http://www.personalitytutor.com/how-to-convince-others.html
-- https://www.farnamstreetblog.com/2014/04/daniel-pink-to-sell-is-human/
 
 Influence others
 
@@ -85,7 +109,7 @@ Assertiveness
 is the ability to communicate with others in a clear and direct manner. [4]
 "The Art of telling people what you would like them to do, in a way that they don't feel threatened or put down".
 
-Body language,  nonverbal communication
+Body language, nonverbal communication
 
 - https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are [6]
 - https://en.wikipedia.org/wiki/Nonverbal_communication
@@ -113,7 +137,7 @@ Books
 Sources
 
 - [1] https://www.goodreads.com/shelf/show/negotiation
-
+- [9] http://www.independent.co.uk/news/science/how-to-convince-some-to-change-their-mind-according-to-science-a6867291.html
 - [2] https://www.facebook.com/SkeptikuDraugija/photos/a.359165814151991.73995.293789854022921/1296310023770894/?type=3&theater
 - [3] https://www.kent.ac.uk/careers/sk/persuading.htm
 - [4] https://www.kent.ac.uk/careers/assertiveness.htm
@@ -121,14 +145,13 @@ Sources
 - [6] https://blog.hubspot.com/sales/a-primer-on-persuasion-tricks-for-convincing-prospects-to-buy#sm.0000025b78z62ye1mrncutcqr8ehw
 - [7] http://listverse.com/2013/02/03/10-psychology-tricks-you-can-use-to-influence-people/
 - [8] https://www.quora.com/What-is-the-difference-between-persuasion-and-negotiation
-- [9] http://www.independent.co.uk/news/science/how-to-convince-some-to-change-their-mind-according-to-science-a6867291.html
 - [10] https://en.wikipedia.org/wiki/Negotiation
 - [11] http://www.usma.edu/cfe/Literature/Rybacki_16.pdf
 - [12] http://www.freetopursue.com/blog/2016/8/18/what-kills-our-negotiation-power
 - [13] https://www.inc.com/john-rampton/13-negotiation-techniques-that-never-fail.html
 - [14] http://lifehacker.com/tell-a-story-to-generate-more-reactions-during-a-negoti-1782108524
 - [15] http://lifehacker.com/avoid-using-hard-numbers-when-haggling-your-way-to-a-de-1780661534
-- [16]  http://www.bakadesuyo.com/2016/05/how-to-be-persuasive/
+- [16] http://www.bakadesuyo.com/2016/05/how-to-be-persuasive/
 - [17] http://lifehacker.com/count-to-five-in-your-head-before-responding-during-a-n-1768980701
 - [18] https://qz.com/985093/inside-the-digital-heist-that-terrorized-the-world-and-made-less-than-100k/
 - [19] https://www.theatlantic.com/business/archive/2015/04/ask-a-hostage-negotiator-whats-the-best-way-to-talk-about-a-raise/391943/
