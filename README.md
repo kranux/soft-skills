@@ -109,7 +109,7 @@ Assertiveness
 is the ability to communicate with others in a clear and direct manner. [4]
 "The Art of telling people what you would like them to do, in a way that they don't feel threatened or put down".
 
-Body language, nonverbal communication
+### Body language, nonverbal communication
 
 - https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are [6]
 - https://en.wikipedia.org/wiki/Nonverbal_communication

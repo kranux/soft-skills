@@ -4,7 +4,6 @@
 
 ## (seems to be) interesting reads
 
-- https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
 - http://lifehacker.com/how-to-inflate-tasks-and-extend-due-dates-1455424470
 - http://www.jamesaltucher.com/2011/11/how-to-negotiate-in-three-easy-lessons/
 - https://blogs.scientificamerican.com/guest-blog/a-fun-diy-science-goodie-the-behavioral-economics-of-agreement-and-why-negotiations-fail/
@@ -16,9 +15,13 @@
 
 ## Advices
 
-- Be fair: “Good negotiators should always think about how they can show the proposal they're making is fair to both parties,” [25]
-- Strike a power pose: see body language [25]
 - Aim high [25]
+- Be fair: “Good negotiators should always think about how they can show the proposal they're making is fair to both parties,” [25]
+- Come up with a formula before the negotiation [26]
+- Diversify
+- Have a bigger list - give up the nickels for the dimes [26]
+- Sleep late - Carl Icahn, one of the best investors in the world, uses this technique: He schedules his negotiations for the early evening, sleep until 4pm and then go to the negotiation at 6pm. Our peak mental ability (according to Dan Ariely, author of Predictably Irrational, and many other books) is approximately 2 hours after we wake up until about 4 hours after we wake up. [26]
+- Strike a power pose [body language](./README.md#body-language) [25]
 
 ## Types: [10]
 
@@ -165,3 +168,4 @@ Know your bottom line [23]
 
 - [10] https://en.wikipedia.org/wiki/Negotiation
 - [25] https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/
+- [26] https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
