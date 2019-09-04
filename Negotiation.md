@@ -4,7 +4,6 @@
 
 ## (seems to be) interesting reads
 
-- https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/
 - https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
 - http://lifehacker.com/how-to-inflate-tasks-and-extend-due-dates-1455424470
 - http://www.jamesaltucher.com/2011/11/how-to-negotiate-in-three-easy-lessons/
@@ -14,6 +13,12 @@
 - http://lifehacker.com/5974807/how-to-get-anything-you-want-with-minimal-negotiation
 - https://hbr.org/2014/06/how-to-negotiate-with-someone-more-powerful-than-you
 - https://www.theatlantic.com/business/archive/2015/04/ask-a-hostage-negotiator-whats-the-best-way-to-talk-about-a-raise/391943/
+
+## Advices
+
+- Be fair: “Good negotiators should always think about how they can show the proposal they're making is fair to both parties,” [25]
+- Strike a power pose: see body language [25]
+- Aim high [25]
 
 ## Types: [10]
 
@@ -148,13 +153,15 @@ Know your bottom line [23]
 
 ## Books
 
-- Getting to Yes - Fisher et al [10]
+- "Getting to Yes" - Fisher et al [10]
 - "The Negotiator's Fieldbook: The Desk Reference for the Experienced Negotiator" - https://www.amazon.co.uk/gp/product/1590315456/
 - "Negotiation Boot Camp: How to Resolve Conflict, Satisfy Customers, and Make Better Deals" - https://www.amazon.com/Negotiation-Boot-Camp-Conflict-Customers/dp/1499172702
 - "The Art of Negotiation: How to Improvise Agreement in a Chaotic World" - https://www.amazon.com/Art-Negotiation-Improvise-Agreement-Chaotic/dp/1451690428/ [8]
 - https://www.amazon.com/You-Dont-Ask-Get/dp/0984439404/
 - "Getting More" - by Stuart Diamond
+- "Negotiation: Theory and Strategy, 2nd edition", by Wolters Kluwer Law and Business, 2009
 
 ## Sources
 
 - [10] https://en.wikipedia.org/wiki/Negotiation
+- [25] https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/
