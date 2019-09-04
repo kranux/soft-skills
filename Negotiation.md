@@ -21,7 +21,7 @@
 - Diversify
 - Have a bigger list - give up the nickels for the dimes [26]
 - Sleep late - Carl Icahn, one of the best investors in the world, uses this technique: He schedules his negotiations for the early evening, sleep until 4pm and then go to the negotiation at 6pm. Our peak mental ability (according to Dan Ariely, author of Predictably Irrational, and many other books) is approximately 2 hours after we wake up until about 4 hours after we wake up. [26]
-- Strike a power pose [body language](./README.md#body-language) [25]
+- Strike a power pose [body language](./README.md#body-language-nonverbal-communicatione) [25]
 
 ## Types: [10]
 
