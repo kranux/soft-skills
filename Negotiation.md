@@ -1,6 +1,6 @@
 # Negotiation
 
-> Negotiation is a dialogue between two or more people or parties intended to reach a beneficial outcome over one or more issues where a conflict exists with respect to at least one of these issues. [10]
+> Negotiation is a dialogue between two or more people or parties intended to reach a beneficial outcome over one or more issues where a conflict exists with respect to at least one of these issues. <a href="#a10">[10]</a>
 
 ## (seems to be) interesting reads
 
@@ -23,12 +23,12 @@
 - Sleep late - Carl Icahn, one of the best investors in the world, uses this technique: He schedules his negotiations for the early evening, sleep until 4pm and then go to the negotiation at 6pm. Our peak mental ability (according to Dan Ariely, author of Predictably Irrational, and many other books) is approximately 2 hours after we wake up until about 4 hours after we wake up. [26]
 - Strike a power pose [body language](./README.md#body-language-nonverbal-communication) [25]
 
-## Types: [10]
+## Types <a href="#a10">[10]</a>
 
 - Distributive negotiation / Zero sum game
 - Integrative negotiation / Non-zero-sum game / Win-win game
 
-## Techniques: [10]
+## Techniques <a href="#a10">[10]</a>
 
 - Put yourself in their shoes
 - Discuss each other's perceptions
@@ -37,7 +37,7 @@
 - Active listening
 - Speak for a purpose
 
-## Conflict styles: [10]
+## Conflict styles <a href="#a10">[10]</a>
 
 - Accommodating
 - Avoiding
@@ -45,9 +45,9 @@
 - Competing
 - Compromising
 
-Types of negotiators: Soft, Hard, Principled [10]
+Types of negotiators: Soft, Hard, Principled <a href="#a10">[10]</a>
 
-## Tactics: [10]
+## Tactics <a href="#a10">[10]</a>
 
 - Auction
 - Brinksmanship
@@ -63,7 +63,7 @@ Types of negotiators: Soft, Hard, Principled [10]
 - Mirroring
 - Scotting
 
-## Dealing with emotions [10]
+## Dealing with emotions <a href="#a10">[10]</a>
 
 - Make emotions explicit and validate
 - Allow time to let off steam
@@ -156,7 +156,7 @@ Know your bottom line [23]
 
 ## Books
 
-- "Getting to Yes" - Fisher et al [10]
+- "Getting to Yes" - Fisher et al <a href="#a10">[10]</a>
 - "The Negotiator's Fieldbook: The Desk Reference for the Experienced Negotiator" - https://www.amazon.co.uk/gp/product/1590315456/
 - "Negotiation Boot Camp: How to Resolve Conflict, Satisfy Customers, and Make Better Deals" - https://www.amazon.com/Negotiation-Boot-Camp-Conflict-Customers/dp/1499172702
 - "The Art of Negotiation: How to Improvise Agreement in a Chaotic World" - https://www.amazon.com/Art-Negotiation-Improvise-Agreement-Chaotic/dp/1451690428/ [8]
@@ -166,6 +166,7 @@ Know your bottom line [23]
 
 ## Sources
 
-- [10] https://en.wikipedia.org/wiki/Negotiation
+- <a id="a10">[10]</a> https://en.wikipedia.org/wiki/Negotiation
+
 - [25] https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/
 - [26] https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
