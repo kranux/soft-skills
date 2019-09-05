@@ -17,7 +17,7 @@
 - Be fair: “Good negotiators should always think about how they can show the proposal they're making is fair to both parties,” <a href="#a25">[25]</a>
 - Diversify
 - Have a bigger list - give up the nickels for the dimes <a href="#a26">[26]</a>
-- Have everyone agree on a mathematical formula to value an asset or service, Then when you start plugging in the variables, that’s where the real negotiation is occurring and if you know in advance that those numbers are going to be lower than thought, then you will win the negotiation AND everyone will be happy when it’s over <a href="#a27">[27]</a> <a href="#a26">[26]</a>
+- Have everyone agree on a mathematical formula to value an asset or service, Then when you start plugging in the variables, that’s where the real negotiation is occurring and if you know in advance that those numbers are going to be lower than thought, then you will win the negotiation AND everyone will be happy when it’s over <a href="#a28">[28]</a> <a href="#a26">[26]</a>
 - Sleep late - Carl Icahn, one of the best investors in the world, uses this technique: He schedules his negotiations for the early evening, sleep until 4pm and then go to the negotiation at 6pm. Our peak mental ability (according to Dan Ariely, author of Predictably Irrational, and many other books) is approximately 2 hours after we wake up until about 4 hours after we wake up. <a href="#a26">[26]</a>
 - Strike a power pose [body language](./README.md#body-language-nonverbal-communication) <a href="#a25">[25]</a>
 
