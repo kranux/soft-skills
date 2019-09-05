@@ -4,8 +4,6 @@
 
 ## (seems to be) interesting reads
 
-- https://blogs.scientificamerican.com/guest-blog/a-fun-diy-science-goodie-the-behavioral-economics-of-agreement-and-why-negotiations-fail/
-- https://www.americanexpress.com/us/small-business/openforum/articles/you-dont-get-what-you-deserveyou-get-what-you-negotiate/
 - https://www.psychologytoday.com/blog/ulterior-motives/201107/when-you-negotiate-don-t-argue
 - http://lifehacker.com/5974807/how-to-get-anything-you-want-with-minimal-negotiation
 - https://hbr.org/2014/06/how-to-negotiate-with-someone-more-powerful-than-you
@@ -13,13 +11,20 @@
 
 ## Advices
 
-- Aim high <a href="#a25">[25]</a>
+- Aim high: The more you ask for, the more you’ll get, unless your demands are totally unreasonable. This has been confirmed by extensive research. Make a list of your goals and aspirations and set them high <a href="#a25">[25]</a> <a href="#a29">[29]</a>
 - Be fair: “Good negotiators should always think about how they can show the proposal they're making is fair to both parties,” <a href="#a25">[25]</a>
+- Be prepared to walk away <a href="#a29">[29]</a>
 - Diversify
+- Do your homework <a href="#a29">[29]</a>
+- Document what you agree on <a href="#a29">[29]</a>
 - Have a bigger list - give up the nickels for the dimes <a href="#a26">[26]</a>
 - Have everyone agree on a mathematical formula to value an asset or service, Then when you start plugging in the variables, that’s where the real negotiation is occurring and if you know in advance that those numbers are going to be lower than thought, then you will win the negotiation AND everyone will be happy when it’s over <a href="#a28">[28]</a> <a href="#a26">[26]</a>
+- Know and control deadlines <a href="#a29">[29]</a>
+- Make sure the person you are negotiating with has the authority to commit to what you want; if they don’t, don’t negotiate. <a href="#a29">[29]</a>
 - Sleep late - Carl Icahn, one of the best investors in the world, uses this technique: He schedules his negotiations for the early evening, sleep until 4pm and then go to the negotiation at 6pm. Our peak mental ability (according to Dan Ariely, author of Predictably Irrational, and many other books) is approximately 2 hours after we wake up until about 4 hours after we wake up. <a href="#a26">[26]</a>
 - Strike a power pose [body language](./README.md#body-language-nonverbal-communication) <a href="#a25">[25]</a>
+- Try not to make the first concession. Whoever makes the first one usually gives away more than the other party. Make concessions small, and make them slowly. The opponent should really earn them with lots of persuasion. Never make a concession without getting one back in return. <a href="#a29">[29]</a>
+- When in doubt, shut up! <a href="#a29">[29]</a>
 
 ## Deadlines / Due dates / Projects
 
@@ -157,6 +162,8 @@ Know your bottom line [23]
 - http://www.alistapart.com/articles/no-one-nos-learning-to-say-no-to-bad-ideas/
 - The Harvard Negotiation Project https://www.pon.harvard.edu/category/research_projects/harvard-negotiation-project/ [10]
 - http://www.getrichslowly.org/blog/2009/12/08/you-can-negotiate-anything/
+- https://www.americanexpress.com/en-us/business/trends-and-insights/keywords/negotiating/
+- https://www.americanexpress.com/en-us/business/trends-and-insights/topics/negotiations/
 
 ## Books
 
@@ -175,3 +182,4 @@ Know your bottom line [23]
 - <a id="a26">[26]</a> https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
 - <a id="a27">[27]</a> https://lifehacker.com/how-to-inflate-tasks-and-extend-due-dates-1455424470
 - <a id="a28">[28]</a> https://jamesaltucher.com/blog/how-to-negotiate-in-three-easy-lessons/
+- <a id="a29">[29]</a> https://www.americanexpress.com/en-us/business/trends-and-insights/articles/you-dont-get-what-you-deserveyou-get-what-you-negotiate/
