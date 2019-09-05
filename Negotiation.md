@@ -4,7 +4,6 @@
 
 ## (seems to be) interesting reads
 
-- http://lifehacker.com/how-to-inflate-tasks-and-extend-due-dates-1455424470
 - http://www.jamesaltucher.com/2011/11/how-to-negotiate-in-three-easy-lessons/
 - https://blogs.scientificamerican.com/guest-blog/a-fun-diy-science-goodie-the-behavioral-economics-of-agreement-and-why-negotiations-fail/
 - https://www.americanexpress.com/us/small-business/openforum/articles/you-dont-get-what-you-deserveyou-get-what-you-negotiate/
@@ -22,6 +21,12 @@
 - Have a bigger list - give up the nickels for the dimes <a href="#a26">[26]</a>
 - Sleep late - Carl Icahn, one of the best investors in the world, uses this technique: He schedules his negotiations for the early evening, sleep until 4pm and then go to the negotiation at 6pm. Our peak mental ability (according to Dan Ariely, author of Predictably Irrational, and many other books) is approximately 2 hours after we wake up until about 4 hours after we wake up. <a href="#a26">[26]</a>
 - Strike a power pose [body language](./README.md#body-language-nonverbal-communication) <a href="#a25">[25]</a>
+
+## Deadlines / Due dates / Projects
+
+- Use Scotty Principle: When asked how long a job will take, estimate the time required to complete the job, add about 25%-50% onto that estimate, and commit to the longer estimate. <a href="#a27">[27]</a>
+- Deal In Deliverables, Not Deadlines <a href="#a27">[27]</a>
+- Keep the Details To Yourself Until Asked <a href="#a27">[27]</a>
 
 ## Types <a href="#a10">[10]</a>
 
@@ -169,3 +174,4 @@ Know your bottom line [23]
 - <a id="a10">[10]</a> https://en.wikipedia.org/wiki/Negotiation
 - <a id="a25">[25]</a> https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/
 - <a id="a26">[26]</a> https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
+- <a id="a27">[27]</a> https://lifehacker.com/how-to-inflate-tasks-and-extend-due-dates-1455424470
