@@ -4,7 +4,6 @@
 
 ## (seems to be) interesting reads
 
-- http://www.jamesaltucher.com/2011/11/how-to-negotiate-in-three-easy-lessons/
 - https://blogs.scientificamerican.com/guest-blog/a-fun-diy-science-goodie-the-behavioral-economics-of-agreement-and-why-negotiations-fail/
 - https://www.americanexpress.com/us/small-business/openforum/articles/you-dont-get-what-you-deserveyou-get-what-you-negotiate/
 - https://www.psychologytoday.com/blog/ulterior-motives/201107/when-you-negotiate-don-t-argue
@@ -16,9 +15,9 @@
 
 - Aim high <a href="#a25">[25]</a>
 - Be fair: “Good negotiators should always think about how they can show the proposal they're making is fair to both parties,” <a href="#a25">[25]</a>
-- Come up with a formula before the negotiation <a href="#a26">[26]</a>
 - Diversify
 - Have a bigger list - give up the nickels for the dimes <a href="#a26">[26]</a>
+- Have everyone agree on a mathematical formula to value an asset or service, Then when you start plugging in the variables, that’s where the real negotiation is occurring and if you know in advance that those numbers are going to be lower than thought, then you will win the negotiation AND everyone will be happy when it’s over <a href="#a27">[27]</a> <a href="#a26">[26]</a>
 - Sleep late - Carl Icahn, one of the best investors in the world, uses this technique: He schedules his negotiations for the early evening, sleep until 4pm and then go to the negotiation at 6pm. Our peak mental ability (according to Dan Ariely, author of Predictably Irrational, and many other books) is approximately 2 hours after we wake up until about 4 hours after we wake up. <a href="#a26">[26]</a>
 - Strike a power pose [body language](./README.md#body-language-nonverbal-communication) <a href="#a25">[25]</a>
 
@@ -175,3 +174,4 @@ Know your bottom line [23]
 - <a id="a25">[25]</a> https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/
 - <a id="a26">[26]</a> https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
 - <a id="a27">[27]</a> https://lifehacker.com/how-to-inflate-tasks-and-extend-due-dates-1455424470
+- <a id="a28">[28]</a> https://jamesaltucher.com/blog/how-to-negotiate-in-three-easy-lessons/
