@@ -15,13 +15,13 @@
 
 ## Advices
 
-- Aim high [25]
-- Be fair: “Good negotiators should always think about how they can show the proposal they're making is fair to both parties,” [25]
-- Come up with a formula before the negotiation [26]
+- Aim high <a href="#a25">[25]</a>
+- Be fair: “Good negotiators should always think about how they can show the proposal they're making is fair to both parties,” <a href="#a25">[25]</a>
+- Come up with a formula before the negotiation <a href="#a26">[26]</a>
 - Diversify
-- Have a bigger list - give up the nickels for the dimes [26]
-- Sleep late - Carl Icahn, one of the best investors in the world, uses this technique: He schedules his negotiations for the early evening, sleep until 4pm and then go to the negotiation at 6pm. Our peak mental ability (according to Dan Ariely, author of Predictably Irrational, and many other books) is approximately 2 hours after we wake up until about 4 hours after we wake up. [26]
-- Strike a power pose [body language](./README.md#body-language-nonverbal-communication) [25]
+- Have a bigger list - give up the nickels for the dimes <a href="#a26">[26]</a>
+- Sleep late - Carl Icahn, one of the best investors in the world, uses this technique: He schedules his negotiations for the early evening, sleep until 4pm and then go to the negotiation at 6pm. Our peak mental ability (according to Dan Ariely, author of Predictably Irrational, and many other books) is approximately 2 hours after we wake up until about 4 hours after we wake up. <a href="#a26">[26]</a>
+- Strike a power pose [body language](./README.md#body-language-nonverbal-communication) <a href="#a25">[25]</a>
 
 ## Types <a href="#a10">[10]</a>
 
@@ -167,6 +167,5 @@ Know your bottom line [23]
 ## Sources
 
 - <a id="a10">[10]</a> https://en.wikipedia.org/wiki/Negotiation
-
-- [25] https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/
-- [26] https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
+- <a id="a25">[25]</a> https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/
+- <a id="a26">[26]</a> https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
