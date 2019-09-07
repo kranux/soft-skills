@@ -18,6 +18,7 @@ Initial work was done in Evernote app with periodic email check-in with my manag
 - [Convincing others](#convincing-others)
 - [Negotiation](Negotiation.md)
 - [Selling ideas](#selling-ideas)
+- [Verbal Communication](Verbal-communication.md)
 
 #### Secondary
 
