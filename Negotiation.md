@@ -100,7 +100,7 @@ Tell a story. Negotiators have an easier time controlling their expressions when
 
 As soon as you ask for a specific deal—10 percent off, \$50 off—you set a limit... If you make it clear you’re looking to save but don’t say anything specific, it allows the salesperson the space to come up with their own creative way to help you. <a href="#a15">[15]</a>
 
-count to three or five in your head before you respond to anything. [17]
+count to three or five in your head before you respond to anything. <a href="#17">[17]</a>
 
 An indaba is designed to allow every party to voice its opinion, but still arrive at a consensus quickly. It works because opinions and arguments can only be aired in a particular way... Instead of repeating stated positions, each party is encouraged to speak personally and state their “red lines,” which are thresholds that they don’t want to cross. But while telling others their hard limits, they are also asked to provide solutions to find a common ground. [18]
 
@@ -190,6 +190,7 @@ https://pdfs.semanticscholar.org/956e/ab5ced052401f76ca797a5b32f5deea9c939.pdf
 - <a id="a13">[13]</a> [13 Negotiating Techniques That Never Fail](https://www.inc.com/john-rampton/13-negotiation-techniques-that-never-fail.html)
 - <a id="a14">[14]</a> [Tell a Story to Generate More Reactions During a Negotiation](http://lifehacker.com/tell-a-story-to-generate-more-reactions-during-a-negoti-1782108524)
 - <a id="a15">[15]</a> [Avoid Using Hard Numbers When Haggling Your Way to a Deal](http://lifehacker.com/avoid-using-hard-numbers-when-haggling-your-way-to-a-de-1780661534)
+- <a id="a17">[17]</a> [Count to Five In Your Head Before Responding During a Negotiation](http://lifehacker.com/count-to-five-in-your-head-before-responding-during-a-n-1768980701)
 - <a id="a25">[25]</a> https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/
 - <a id="a26">[26]</a> https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
 - <a id="a27">[27]</a> https://lifehacker.com/how-to-inflate-tasks-and-extend-due-dates-1455424470
