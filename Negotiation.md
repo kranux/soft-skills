@@ -2,10 +2,6 @@
 
 > Negotiation is a dialogue between two or more people or parties intended to reach a beneficial outcome over one or more issues where a conflict exists with respect to at least one of these issues. <a href="#a10">[10]</a>
 
-## (seems to be) interesting reads
-
-- https://www.theatlantic.com/business/archive/2015/04/ask-a-hostage-negotiator-whats-the-best-way-to-talk-about-a-raise/391943/
-
 ## Advices
 
 ### Prepare for negotiation
