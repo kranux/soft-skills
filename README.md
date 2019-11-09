@@ -147,7 +147,6 @@ Sources
 - [7] http://listverse.com/2013/02/03/10-psychology-tricks-you-can-use-to-influence-people/
 - [8] https://www.quora.com/What-is-the-difference-between-persuasion-and-negotiation
 - [10] https://en.wikipedia.org/wiki/Negotiation
-- [15] http://lifehacker.com/avoid-using-hard-numbers-when-haggling-your-way-to-a-de-1780661534
 - [16] http://www.bakadesuyo.com/2016/05/how-to-be-persuasive/
 - [17] http://lifehacker.com/count-to-five-in-your-head-before-responding-during-a-n-1768980701
 - [18] https://qz.com/985093/inside-the-digital-heist-that-terrorized-the-world-and-made-less-than-100k/
