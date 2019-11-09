@@ -94,9 +94,9 @@ Types of negotiators: Soft, Hard, Principled <a href="#a10">[10]</a>
 
 When we move every potential acquisition to the “it would be nice”, it means we know we have the power to walk away from a negotiation at any point. When we’re negotiating for a “it would be nice” item, we’re tapping into logic and keeping most emotions—those things that make us act in goofy and unpredictable ways—at bay. It turns us from suckers to deal makers because we become more patient, self-assured and less likely to look for the quick fix. <a href="#a12">[12]</a>
 
-Want to know how strongly you or your counterpart wants something? Put a number on it. A number 1, for example is neutral, and 10 would be something you can’t live without. Hopefully this will lead to both parties eventually comprising or coming up with an alternative. This has allowed me in the past to be very direct with the other party in letting them know what I’m not willing to leave on the table. <a href="#13">[13]</a>
+Want to know how strongly you or your counterpart wants something? Put a number on it. A number 1, for example is neutral, and 10 would be something you can’t live without. Hopefully this will lead to both parties eventually comprising or coming up with an alternative. This has allowed me in the past to be very direct with the other party in letting them know what I’m not willing to leave on the table. <a href="#a13">[13]</a>
 
-Tell a story. Negotiators have an easier time controlling their expressions when they’re talking. So don’t ask too many open questions. Instead describe what you want or share an anecdote about another negotiating partner who shared concerns similar to theirs and watch how they respond as they listen. Their guard will lower a little and you’ll be able to see their honest reactions to what you’re saying — knowledge to guide the rest of the conversation. [14]
+Tell a story. Negotiators have an easier time controlling their expressions when they’re talking. So don’t ask too many open questions. Instead describe what you want or share an anecdote about another negotiating partner who shared concerns similar to theirs and watch how they respond as they listen. Their guard will lower a little and you’ll be able to see their honest reactions to what you’re saying — knowledge to guide the rest of the conversation. <a href="#a14">[14]</a>
 
 As soon as you ask for a specific deal—10 percent off, \$50 off—you set a limit... If you make it clear you’re looking to save but don’t say anything specific, it allows the salesperson the space to come up with their own creative way to help you. [15]
 
@@ -188,6 +188,7 @@ https://pdfs.semanticscholar.org/956e/ab5ced052401f76ca797a5b32f5deea9c939.pdf
 - <a id="a11">[11]</a> [Michael J Rybacki - Principled Negotiation](https://pdfs.semanticscholar.org/956e/ab5ced052401f76ca797a5b32f5deea9c939.pdf)
 - <a id="a12">[12]</a> [Here's What Kills Our Negotiation Power - Part 1](http://www.freetopursue.com/blog/2016/8/18/what-kills-our-negotiation-power)
 - <a id="a13">[13]</a> [13 Negotiating Techniques That Never Fail](https://www.inc.com/john-rampton/13-negotiation-techniques-that-never-fail.html)
+- <a id="a14">[14]</a> [Tell a Story to Generate More Reactions During a Negotiation](http://lifehacker.com/tell-a-story-to-generate-more-reactions-during-a-negoti-1782108524)
 - <a id="a25">[25]</a> https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/
 - <a id="a26">[26]</a> https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
 - <a id="a27">[27]</a> https://lifehacker.com/how-to-inflate-tasks-and-extend-due-dates-1455424470
