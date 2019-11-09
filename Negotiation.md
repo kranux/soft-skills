@@ -4,7 +4,6 @@
 
 ## (seems to be) interesting reads
 
-- https://www.psychologytoday.com/blog/ulterior-motives/201107/when-you-negotiate-don-t-argue
 - http://lifehacker.com/5974807/how-to-get-anything-you-want-with-minimal-negotiation
 - https://hbr.org/2014/06/how-to-negotiate-with-someone-more-powerful-than-you
 - https://www.theatlantic.com/business/archive/2015/04/ask-a-hostage-negotiator-whats-the-best-way-to-talk-about-a-raise/391943/
@@ -77,6 +76,10 @@ Types of negotiators: Soft, Hard, Principled <a href="#a10">[10]</a>
 - Mirroring
 - Scotting
 
+## Strategies
+
+- Anchoring and adjustment - we start with some anchor point and then adjust our belief about the true value based on other information. <a href="#a30">[30]</a>
+
 ## Dealing with emotions <a href="#a10">[10]</a>
 
 - Make emotions explicit and validate
@@ -114,7 +117,9 @@ Inquire. Ask questions that show you’ve been paying attention and that move th
 
 Time also plays a role. In negotiations, the side with the most time generally has an advantage. Patience pays. No matter how pressed you are, you should always keep your cool, maintaining an appearance of calm. "Your deadline is of your own making," Cohen writes. Don't ignore deadlines, but don't follow them blindly, either. [22]
 
-Steps leading to negotiation [23]
+If you are involved in a negotiation, it is probably a good idea to make the first offer. That initial offer serves as an anchor. However, after you make that initial offer, resist the temptation to give reasons to justify that initial bid. Instead, let the other party come back with a counteroffer. Chances are, that counteroffer will not be adjusted as far away from your initial offer as it would have been if you had made arguments in your own favor. <a href="#a30">[30]</a>
+
+## Steps leading to negotiation [23]
 
 - Identify the problem
 - Research the issues
@@ -129,7 +134,7 @@ Steps leading to negotiation [23]
 - meet participants
 - establish parameters of situation
 
-Uncover hidden agendas [23]
+## Uncover hidden agendas [23]
 
 - Ask questions
 - Think like reporter
@@ -176,8 +181,6 @@ Know your bottom line [23]
 
 ## Sources
 
-https://pdfs.semanticscholar.org/956e/ab5ced052401f76ca797a5b32f5deea9c939.pdf
-
 - <a id="a10">[10]</a> https://en.wikipedia.org/wiki/Negotiation
 - <a id="a11">[11]</a> [Michael J Rybacki - Principled Negotiation](https://pdfs.semanticscholar.org/956e/ab5ced052401f76ca797a5b32f5deea9c939.pdf)
 - <a id="a12">[12]</a> [Here's What Kills Our Negotiation Power - Part 1](http://www.freetopursue.com/blog/2016/8/18/what-kills-our-negotiation-power)
@@ -192,3 +195,4 @@ https://pdfs.semanticscholar.org/956e/ab5ced052401f76ca797a5b32f5deea9c939.pdf
 - <a id="a27">[27]</a> https://lifehacker.com/how-to-inflate-tasks-and-extend-due-dates-1455424470
 - <a id="a28">[28]</a> https://jamesaltucher.com/blog/how-to-negotiate-in-three-easy-lessons/
 - <a id="a29">[29]</a> https://www.americanexpress.com/en-us/business/trends-and-insights/articles/you-dont-get-what-you-deserveyou-get-what-you-negotiate/
+- <a id="a30">[30]</a> [When You Negotiate, Don’t Argue](https://www.psychologytoday.com/blog/ulterior-motives/201107/when-you-negotiate-don-t-argue)
