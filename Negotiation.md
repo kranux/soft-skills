@@ -19,8 +19,8 @@
 
 ### Process of negotiation
 
-- Aim high: The more you ask for, the more you’ll get, unless your demands are totally unreasonable. This has been confirmed by extensive research. Make a list of your goals and aspirations and set them high <a href="#a25">[25]</a> <a href="#a29">[29]</a>
-- Be fair: “Good negotiators should always think about how they can show the proposal they're making is fair to both parties,” <a href="#a25">[25]</a>
+- Aim high: The more you ask for, the more you’ll get, unless your demands are totally unreasonable. This has been confirmed by extensive research. Make a list of your goals and aspirations and set them high <a href="#a20">[20]</a> <a href="#a29">[29]</a>
+- Be fair: “Good negotiators should always think about how they can show the proposal they're making is fair to both parties,” <a href="#a20">[20]</a>
 - Be prepared to walk away <a href="#a29">[29]</a>
 - Diversify
 - Document what you agree on <a href="#a29">[29]</a>
@@ -104,13 +104,7 @@ count to three or five in your head before you respond to anything. <a href="#a1
 
 An indaba is designed to allow every party to voice its opinion, but still arrive at a consensus quickly. It works because opinions and arguments can only be aired in a particular way... Instead of repeating stated positions, each party is encouraged to speak personally and state their “red lines,” which are thresholds that they don’t want to cross. But while telling others their hard limits, they are also asked to provide solutions to find a common ground. <a href="#a18">[18]</a>
 
-...say the statement: “It seems like there’s nothing you can do.” People do not like to feel powerless, what it does is it makes the other side feel like they might be somewhat powerless. They’re going to want to search for answers. And certainly for someone higher than you in the hierarchy, the last thing they want to look to you, a subordinate, is to look powerless. It threatens their identity and authority. They’re not going to be comfortable saying yes to that. [19]
-
-Be fair. "Good negotiators should always think about how they can show the proposal they're making is fair to both parties," Korobkin says. "Fairness" does not have one exact definition, but social psychology studies suggest that an offer people consider fair is one that is similar to what other people in the same situation are getting, consistent with market prices or terms, or on par with a similar transaction you have made in the past... [20]
-
-Strike a power pose. Psychologists have found that expansive, open postures ("high-power poses") make people feel more powerful and confident during stressful situations such as interviews or negotiations, whereas closed, curled-in positions ("low-power poses") do the opposite... [20]
-
-Aim high. Really high. Business research shows that people with more aggressive (but still realistic) goals—say, getting a 20 percent raise at work versus a 5 percent bump—end up doing better in negotiations. "One big reason for that is that people who have more aggressive goals make more aggressive first offers," Korobkin says. "Where you start has a lot to do with where you end up." This is called the "anchoring effect..." [20]
+...say the statement: “It seems like there’s nothing you can do.” People do not like to feel powerless, what it does is it makes the other side feel like they might be somewhat powerless. They’re going to want to search for answers. And certainly for someone higher than you in the hierarchy, the last thing they want to look to you, a subordinate, is to look powerless. It threatens their identity and authority. They’re not going to be comfortable saying yes to that. <a href="#a19">[19]</a>
 
 Use active listening:
 Listen to what they say. Don’t interrupt, disagree or “evaluate.”
@@ -192,7 +186,8 @@ https://pdfs.semanticscholar.org/956e/ab5ced052401f76ca797a5b32f5deea9c939.pdf
 - <a id="a15">[15]</a> [Avoid Using Hard Numbers When Haggling Your Way to a Deal](http://lifehacker.com/avoid-using-hard-numbers-when-haggling-your-way-to-a-de-1780661534)
 - <a id="a17">[17]</a> [Count to Five In Your Head Before Responding During a Negotiation](http://lifehacker.com/count-to-five-in-your-head-before-responding-during-a-n-1768980701)
 - <a id="a18">[18]</a> [This simple negotiation tactic brought 195 countries to consensus](https://qz.com/572623/this-simple-negotiation-tactic-brought-195-countries-to-consensus-in-the-paris-climate-talks/)
-- <a id="a25">[25]</a> https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/
+- <a id="a19">[19]</a> [Ask a Hostage Negotiator: What's the Best Way to Get a Raise?](https://www.theatlantic.com/business/archive/2015/04/ask-a-hostage-negotiator-whats-the-best-way-to-talk-about-a-raise/391943/)
+- <a id="a20">[20]</a> [How to Be a Better Negotiator](https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/)
 - <a id="a26">[26]</a> https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
 - <a id="a27">[27]</a> https://lifehacker.com/how-to-inflate-tasks-and-extend-due-dates-1455424470
 - <a id="a28">[28]</a> https://jamesaltucher.com/blog/how-to-negotiate-in-three-easy-lessons/

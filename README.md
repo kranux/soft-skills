@@ -148,8 +148,6 @@ Sources
 - [8] https://www.quora.com/What-is-the-difference-between-persuasion-and-negotiation
 - [10] https://en.wikipedia.org/wiki/Negotiation
 - [16] http://www.bakadesuyo.com/2016/05/how-to-be-persuasive/
-- [19] https://www.theatlantic.com/business/archive/2015/04/ask-a-hostage-negotiator-whats-the-best-way-to-talk-about-a-raise/391943/
-- [20] https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/
 - [21] http://www.bakadesuyo.com/2013/06/hostage-negotiation/
 - [22] http://www.getrichslowly.org/blog/2009/12/08/you-can-negotiate-anything/
 - [23] http://www.how-to-negotiate.com/personal-negotiating/
