@@ -7,34 +7,34 @@
 ### Prepare for negotiation
 
 - Do your homework - collect information / data on price, salary, cost, etc. <a href="#a29">[29]</a> <a href="#a31">[31]</a>
-- Make a list of items you want from negotiation and why <a href="#a32">[32]</a>
+- Make a list of items you want from negotiation and why. <a href="#a32">[32]</a>
 - Make sure the person you are negotiating with has the authority to commit to what you want; if they don’t, don’t negotiate. <a href="#a29">[29]</a>
-- Practice beforehand <a href="#a31">[31]</a>
+- Practice beforehand. <a href="#a31">[31]</a>
 - Sleep late - Carl Icahn, one of the best investors in the world, uses this technique: He schedules his negotiations for the early evening, sleep until 4pm and then go to the negotiation at 6pm. Our peak mental ability (according to Dan Ariely) is approximately 2 hours after we wake up until about 4 hours after we wake up. <a href="#a26">[26]</a>
 
 ### Process of negotiation
 
-- Aim high: The more you ask for, the more you’ll get, unless your demands are totally unreasonable. This has been confirmed by extensive research. Make a list of your goals and aspirations and set them high <a href="#a20">[20]</a> <a href="#a29">[29]</a>
-- Ask questions <a href="#a32">[32]</a>
-- Be fair: “Good negotiators should always think about how they can show the proposal they're making is fair to both parties,” <a href="#a20">[20]</a>
-- Be prepared to walk away <a href="#a29">[29]</a>
-- Diversify
-- Document what you agree on <a href="#a29">[29]</a>
-- Have a bigger list - give up the nickels for the dimes <a href="#a26">[26]</a>
-- Have everyone agree on a mathematical formula to value an asset or service, Then when you start plugging in the variables, that’s where the real negotiation is occurring and if you know in advance that those numbers are going to be lower than thought, then you will win the negotiation AND everyone will be happy when it’s over <a href="#a28">[28]</a> <a href="#a26">[26]</a>
-- Keep Quiet and Listen for Clues <a href="#a31">[31]</a>
-- Know and control deadlines <a href="#a29">[29]</a>
-- Know your value <a href="#a32">[32]</a>
-- Stay calm and don't argue <a href="#a31">[31]</a>
-- Strike a power pose [body language](./README.md#body-language-nonverbal-communication) <a href="#a25">[25]</a>
+- Aim high: The more you ask for, the more you’ll get, unless your demands are totally unreasonable. This has been confirmed by extensive research. Make a list of your goals and aspirations and set them high. <a href="#a20">[20]</a> <a href="#a29">[29]</a>
+- Ask questions. <a href="#a32">[32]</a>
+- Be fair: “Good negotiators should always think about how they can show the proposal they're making is fair to both parties,”. <a href="#a20">[20]</a>
+- Be prepared to walk away, <a href="#a29">[29]</a>
+- Diversify.
+- Document what you agree on. <a href="#a29">[29]</a>
+- Have a bigger list - give up the nickels for the dimes. <a href="#a26">[26]</a>
+- Have everyone agree on a mathematical formula to value an asset or service, Then when you start plugging in the variables, that’s where the real negotiation is occurring and if you know in advance that those numbers are going to be lower than thought, then you will win the negotiation AND everyone will be happy when it’s over. <a href="#a28">[28]</a> <a href="#a26">[26]</a>
+- Keep Quiet and Listen for Clues. <a href="#a31">[31]</a>
+- Know and control deadlines. <a href="#a29">[29]</a>
+- Know your value. <a href="#a32">[32]</a>
+- Stay calm and don't argue. <a href="#a31">[31]</a>
+- Strike a power pose. [body language](./README.md#body-language-nonverbal-communication) <a href="#a25">[25]</a>
 - Try not to make the first concession. Whoever makes the first one usually gives away more than the other party. Make concessions small, and make them slowly. The opponent should really earn them with lots of persuasion. Never make a concession without getting one back in return. <a href="#a29">[29]</a>
 - When in doubt, shut up! <a href="#a29">[29]</a>
 
 ## Deadlines / Due dates / Projects
 
 - Use Scotty Principle: When asked how long a job will take, estimate the time required to complete the job, add about 25%-50% onto that estimate, and commit to the longer estimate. <a href="#a27">[27]</a>
-- Deal In Deliverables, Not Deadlines <a href="#a27">[27]</a>
-- Keep the Details To Yourself Until Asked <a href="#a27">[27]</a>
+- Deal In Deliverables, Not Deadlines. <a href="#a27">[27]</a>
+- Keep the Details To Yourself Until Asked. <a href="#a27">[27]</a>
 
 ## Types <a href="#a10">[10]</a>
 
@@ -114,7 +114,7 @@ Use active listening:
 Listen to what they say. Don’t interrupt, disagree or “evaluate.”
 Nod your head, and make brief acknowledging comments like “yes” and “uh-huh.”
 Without being awkward, repeat back the gist of what they just said, from their frame of reference.
-Inquire. Ask questions that show you’ve been paying attention and that move the discussion forward. [21]
+Inquire. Ask questions that show you’ve been paying attention and that move the discussion forward. <a href="#a21">[21]</a>
 
 Time also plays a role. In negotiations, the side with the most time generally has an advantage. Patience pays. No matter how pressed you are, you should always keep your cool, maintaining an appearance of calm. "Your deadline is of your own making," Cohen writes. Don't ignore deadlines, but don't follow them blindly, either. [22]
 
@@ -193,6 +193,7 @@ Know your bottom line [23]
 - <a id="a18">[18]</a> [This simple negotiation tactic brought 195 countries to consensus](https://qz.com/572623/this-simple-negotiation-tactic-brought-195-countries-to-consensus-in-the-paris-climate-talks/)
 - <a id="a19">[19]</a> [Ask a Hostage Negotiator: What's the Best Way to Get a Raise?](https://www.theatlantic.com/business/archive/2015/04/ask-a-hostage-negotiator-whats-the-best-way-to-talk-about-a-raise/391943/)
 - <a id="a20">[20]</a> [How to Be a Better Negotiator](https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/)
+- <a id="a21">[21]</a> [Hostage Negotiation Techniques That Will Get You What You Want](http://www.bakadesuyo.com/2013/06/hostage-negotiation/)
 - <a id="a26">[26]</a> https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
 - <a id="a27">[27]</a> https://lifehacker.com/how-to-inflate-tasks-and-extend-due-dates-1455424470
 - <a id="a28">[28]</a> https://jamesaltucher.com/blog/how-to-negotiate-in-three-easy-lessons/
