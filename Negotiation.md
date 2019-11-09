@@ -83,7 +83,7 @@ Types of negotiators: Soft, Hard, Principled <a href="#a10">[10]</a>
 - Allow time to let off steam
 - Symbolic gestures
 
-## Principled Negotiation [11]
+## Principled Negotiation <a href="#a11">[11]
 
 - Separate the people from the problem
 - Focus on interests, not positions
@@ -182,7 +182,10 @@ Know your bottom line [23]
 
 ## Sources
 
+https://pdfs.semanticscholar.org/956e/ab5ced052401f76ca797a5b32f5deea9c939.pdf
+
 - <a id="a10">[10]</a> https://en.wikipedia.org/wiki/Negotiation
+- <a id="a11">[11]</a> [Michael J Rybacki - Principled Negotiation](https://pdfs.semanticscholar.org/956e/ab5ced052401f76ca797a5b32f5deea9c939.pdf)
 - <a id="a25">[25]</a> https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/
 - <a id="a26">[26]</a> https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
 - <a id="a27">[27]</a> https://lifehacker.com/how-to-inflate-tasks-and-extend-due-dates-1455424470

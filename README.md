@@ -147,7 +147,6 @@ Sources
 - [7] http://listverse.com/2013/02/03/10-psychology-tricks-you-can-use-to-influence-people/
 - [8] https://www.quora.com/What-is-the-difference-between-persuasion-and-negotiation
 - [10] https://en.wikipedia.org/wiki/Negotiation
-- [11] http://www.usma.edu/cfe/Literature/Rybacki_16.pdf
 - [12] http://www.freetopursue.com/blog/2016/8/18/what-kills-our-negotiation-power
 - [13] https://www.inc.com/john-rampton/13-negotiation-techniques-that-never-fail.html
 - [14] http://lifehacker.com/tell-a-story-to-generate-more-reactions-during-a-negoti-1782108524
