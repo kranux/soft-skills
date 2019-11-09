@@ -102,7 +102,7 @@ As soon as you ask for a specific deal—10 percent off, \$50 off—you set a li
 
 count to three or five in your head before you respond to anything. <a href="#a17">[17]</a>
 
-An indaba is designed to allow every party to voice its opinion, but still arrive at a consensus quickly. It works because opinions and arguments can only be aired in a particular way... Instead of repeating stated positions, each party is encouraged to speak personally and state their “red lines,” which are thresholds that they don’t want to cross. But while telling others their hard limits, they are also asked to provide solutions to find a common ground. [18]
+An indaba is designed to allow every party to voice its opinion, but still arrive at a consensus quickly. It works because opinions and arguments can only be aired in a particular way... Instead of repeating stated positions, each party is encouraged to speak personally and state their “red lines,” which are thresholds that they don’t want to cross. But while telling others their hard limits, they are also asked to provide solutions to find a common ground. <a href="#a18">[18]</a>
 
 ...say the statement: “It seems like there’s nothing you can do.” People do not like to feel powerless, what it does is it makes the other side feel like they might be somewhat powerless. They’re going to want to search for answers. And certainly for someone higher than you in the hierarchy, the last thing they want to look to you, a subordinate, is to look powerless. It threatens their identity and authority. They’re not going to be comfortable saying yes to that. [19]
 
@@ -191,6 +191,7 @@ https://pdfs.semanticscholar.org/956e/ab5ced052401f76ca797a5b32f5deea9c939.pdf
 - <a id="a14">[14]</a> [Tell a Story to Generate More Reactions During a Negotiation](http://lifehacker.com/tell-a-story-to-generate-more-reactions-during-a-negoti-1782108524)
 - <a id="a15">[15]</a> [Avoid Using Hard Numbers When Haggling Your Way to a Deal](http://lifehacker.com/avoid-using-hard-numbers-when-haggling-your-way-to-a-de-1780661534)
 - <a id="a17">[17]</a> [Count to Five In Your Head Before Responding During a Negotiation](http://lifehacker.com/count-to-five-in-your-head-before-responding-during-a-n-1768980701)
+- <a id="a18">[18]</a> [This simple negotiation tactic brought 195 countries to consensus](https://qz.com/572623/this-simple-negotiation-tactic-brought-195-countries-to-consensus-in-the-paris-climate-talks/)
 - <a id="a25">[25]</a> https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/
 - <a id="a26">[26]</a> https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
 - <a id="a27">[27]</a> https://lifehacker.com/how-to-inflate-tasks-and-extend-due-dates-1455424470
