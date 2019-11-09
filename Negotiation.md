@@ -100,7 +100,7 @@ Tell a story. Negotiators have an easier time controlling their expressions when
 
 As soon as you ask for a specific deal—10 percent off, \$50 off—you set a limit... If you make it clear you’re looking to save but don’t say anything specific, it allows the salesperson the space to come up with their own creative way to help you. <a href="#a15">[15]</a>
 
-count to three or five in your head before you respond to anything. <a href="#17">[17]</a>
+count to three or five in your head before you respond to anything. <a href="#a17">[17]</a>
 
 An indaba is designed to allow every party to voice its opinion, but still arrive at a consensus quickly. It works because opinions and arguments can only be aired in a particular way... Instead of repeating stated positions, each party is encouraged to speak personally and state their “red lines,” which are thresholds that they don’t want to cross. But while telling others their hard limits, they are also asked to provide solutions to find a common ground. [18]
 
