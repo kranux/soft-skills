@@ -4,7 +4,6 @@
 
 ## (seems to be) interesting reads
 
-- http://lifehacker.com/5974807/how-to-get-anything-you-want-with-minimal-negotiation
 - https://hbr.org/2014/06/how-to-negotiate-with-someone-more-powerful-than-you
 - https://www.theatlantic.com/business/archive/2015/04/ask-a-hostage-negotiator-whats-the-best-way-to-talk-about-a-raise/391943/
 
@@ -12,8 +11,9 @@
 
 ### Prepare for negotiation
 
-- Do your homework <a href="#a29">[29]</a>
+- Do your homework (collect info on price, salary, cost, etc) <a href="#a29">[29]</a> <a href="#a31">[31]</a>
 - Make sure the person you are negotiating with has the authority to commit to what you want; if they don’t, don’t negotiate. <a href="#a29">[29]</a>
+- Practice beforehand <a href="#a31">[31]</a>
 - Sleep late - Carl Icahn, one of the best investors in the world, uses this technique: He schedules his negotiations for the early evening, sleep until 4pm and then go to the negotiation at 6pm. Our peak mental ability (according to Dan Ariely) is approximately 2 hours after we wake up until about 4 hours after we wake up. <a href="#a26">[26]</a>
 
 ### Process of negotiation
@@ -26,9 +26,11 @@
 - Have a bigger list - give up the nickels for the dimes <a href="#a26">[26]</a>
 - Have everyone agree on a mathematical formula to value an asset or service, Then when you start plugging in the variables, that’s where the real negotiation is occurring and if you know in advance that those numbers are going to be lower than thought, then you will win the negotiation AND everyone will be happy when it’s over <a href="#a28">[28]</a> <a href="#a26">[26]</a>
 - Know and control deadlines <a href="#a29">[29]</a>
+- Stay calm and don't argue <a href="#a31">[31]</a>
 - Strike a power pose [body language](./README.md#body-language-nonverbal-communication) <a href="#a25">[25]</a>
 - Try not to make the first concession. Whoever makes the first one usually gives away more than the other party. Make concessions small, and make them slowly. The opponent should really earn them with lots of persuasion. Never make a concession without getting one back in return. <a href="#a29">[29]</a>
 - When in doubt, shut up! <a href="#a29">[29]</a>
+- Keep Quiet and Listen for Clues <a href="#a31">[31]</a>
 
 ## Deadlines / Due dates / Projects
 
@@ -39,7 +41,7 @@
 ## Types <a href="#a10">[10]</a>
 
 - Distributive negotiation / Zero sum game
-- Integrative negotiation / Non-zero-sum game / Win-win game
+- Integrative negotiation / Non-zero-sum game / Win-win game / Expand the Pie <a href="#a31">[31]</a>
 
 ## Techniques <a href="#a10">[10]</a>
 
@@ -79,6 +81,7 @@ Types of negotiators: Soft, Hard, Principled <a href="#a10">[10]</a>
 ## Strategies
 
 - Anchoring and adjustment - we start with some anchor point and then adjust our belief about the true value based on other information. <a href="#a30">[30]</a>
+- 15-20 Percent Rule <a href="#a31">[31]</a>
 
 ## Dealing with emotions <a href="#a10">[10]</a>
 
@@ -168,6 +171,7 @@ Know your bottom line [23]
 - http://www.getrichslowly.org/blog/2009/12/08/you-can-negotiate-anything/
 - https://www.americanexpress.com/en-us/business/trends-and-insights/keywords/negotiating/
 - https://www.americanexpress.com/en-us/business/trends-and-insights/topics/negotiations/
+- https://lifehacker.com/why-you-shouldnt-argue-in-a-negotiation-5826003
 
 ## Books
 
@@ -196,3 +200,4 @@ Know your bottom line [23]
 - <a id="a28">[28]</a> https://jamesaltucher.com/blog/how-to-negotiate-in-three-easy-lessons/
 - <a id="a29">[29]</a> https://www.americanexpress.com/en-us/business/trends-and-insights/articles/you-dont-get-what-you-deserveyou-get-what-you-negotiate/
 - <a id="a30">[30]</a> [When You Negotiate, Don’t Argue](https://www.psychologytoday.com/blog/ulterior-motives/201107/when-you-negotiate-don-t-argue)
+- <a id="a31">[31]</a> [How to Get Anything You Want with Minimal Negotiation](http://lifehacker.com/5974807/how-to-get-anything-you-want-with-minimal-negotiation)
