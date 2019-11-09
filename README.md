@@ -148,6 +148,5 @@ Sources
 - [8] https://www.quora.com/What-is-the-difference-between-persuasion-and-negotiation
 - [10] https://en.wikipedia.org/wiki/Negotiation
 - [16] http://www.bakadesuyo.com/2016/05/how-to-be-persuasive/
-- [22] http://www.getrichslowly.org/blog/2009/12/08/you-can-negotiate-anything/
 - [23] http://www.how-to-negotiate.com/personal-negotiating/
 - [24] https://www.farnamstreetblog.com/2014/06/winning-an-argument/

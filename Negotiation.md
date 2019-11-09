@@ -116,7 +116,7 @@ Nod your head, and make brief acknowledging comments like “yes” and “uh-hu
 Without being awkward, repeat back the gist of what they just said, from their frame of reference.
 Inquire. Ask questions that show you’ve been paying attention and that move the discussion forward. <a href="#a21">[21]</a>
 
-Time also plays a role. In negotiations, the side with the most time generally has an advantage. Patience pays. No matter how pressed you are, you should always keep your cool, maintaining an appearance of calm. "Your deadline is of your own making," Cohen writes. Don't ignore deadlines, but don't follow them blindly, either. [22]
+Time also plays a role. In negotiations, the side with the most time generally has an advantage. Patience pays. No matter how pressed you are, you should always keep your cool, maintaining an appearance of calm. "Your deadline is of your own making," Cohen writes. Don't ignore deadlines, but don't follow them blindly, either. <a href="#a22">[22]</a>
 
 If you are involved in a negotiation, it is probably a good idea to make the first offer. That initial offer serves as an anchor. However, after you make that initial offer, resist the temptation to give reasons to justify that initial bid. Instead, let the other party come back with a counteroffer. Chances are, that counteroffer will not be adjusted as far away from your initial offer as it would have been if you had made arguments in your own favor. <a href="#a30">[30]</a>
 
@@ -194,6 +194,7 @@ Know your bottom line [23]
 - <a id="a19">[19]</a> [Ask a Hostage Negotiator: What's the Best Way to Get a Raise?](https://www.theatlantic.com/business/archive/2015/04/ask-a-hostage-negotiator-whats-the-best-way-to-talk-about-a-raise/391943/)
 - <a id="a20">[20]</a> [How to Be a Better Negotiator](https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/)
 - <a id="a21">[21]</a> [Hostage Negotiation Techniques That Will Get You What You Want](http://www.bakadesuyo.com/2013/06/hostage-negotiation/)
+- <a href="a22">[22]</a> [You can negotiate anything](https://www.getrichslowly.org/you-can-negotiate-anything/)
 - <a id="a26">[26]</a> https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
 - <a id="a27">[27]</a> https://lifehacker.com/how-to-inflate-tasks-and-extend-due-dates-1455424470
 - <a id="a28">[28]</a> https://jamesaltucher.com/blog/how-to-negotiate-in-three-easy-lessons/
