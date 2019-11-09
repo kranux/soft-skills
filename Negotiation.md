@@ -194,7 +194,7 @@ Know your bottom line [23]
 - <a id="a19">[19]</a> [Ask a Hostage Negotiator: What's the Best Way to Get a Raise?](https://www.theatlantic.com/business/archive/2015/04/ask-a-hostage-negotiator-whats-the-best-way-to-talk-about-a-raise/391943/)
 - <a id="a20">[20]</a> [How to Be a Better Negotiator](https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/)
 - <a id="a21">[21]</a> [Hostage Negotiation Techniques That Will Get You What You Want](http://www.bakadesuyo.com/2013/06/hostage-negotiation/)
-- <a href="a22">[22]</a> [You can negotiate anything](https://www.getrichslowly.org/you-can-negotiate-anything/)
+- <a id="a22">[22]</a> [You can negotiate anything](https://www.getrichslowly.org/you-can-negotiate-anything/)
 - <a id="a26">[26]</a> https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
 - <a id="a27">[27]</a> https://lifehacker.com/how-to-inflate-tasks-and-extend-due-dates-1455424470
 - <a id="a28">[28]</a> https://jamesaltucher.com/blog/how-to-negotiate-in-three-easy-lessons/
