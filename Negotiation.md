@@ -24,6 +24,7 @@
 - Have everyone agree on a mathematical formula to value an asset or service, Then when you start plugging in the variables, that’s where the real negotiation is occurring and if you know in advance that those numbers are going to be lower than thought, then you will win the negotiation AND everyone will be happy when it’s over. <a href="#a28">[28]</a> <a href="#a26">[26]</a>
 - Keep Quiet and Listen for Clues. <a href="#a31">[31]</a>
 - Know and control deadlines. <a href="#a29">[29]</a>
+- Know your bottom line <a href="#a23">[23]</a>
 - Know your value. <a href="#a32">[32]</a>
 - Stay calm and don't argue. <a href="#a31">[31]</a>
 - Strike a power pose. [body language](./README.md#body-language-nonverbal-communication) <a href="#a25">[25]</a>
@@ -120,7 +121,7 @@ Time also plays a role. In negotiations, the side with the most time generally h
 
 If you are involved in a negotiation, it is probably a good idea to make the first offer. That initial offer serves as an anchor. However, after you make that initial offer, resist the temptation to give reasons to justify that initial bid. Instead, let the other party come back with a counteroffer. Chances are, that counteroffer will not be adjusted as far away from your initial offer as it would have been if you had made arguments in your own favor. <a href="#a30">[30]</a>
 
-## Steps leading to negotiation [23]
+## Steps leading to negotiation <a href="#a23">[23]</a>
 
 - Identify the problem
 - Research the issues
@@ -135,15 +136,13 @@ If you are involved in a negotiation, it is probably a good idea to make the fir
 - meet participants
 - establish parameters of situation
 
-## Uncover hidden agendas [23]
+## Uncover hidden agendas <a href="#a23">[23]</a>
 
 - Ask questions
 - Think like reporter
 - Question responses
 - Gather and digest the responses
 - Observe the non-verbal reactions
-
-Know your bottom line [23]
 
 ## collections of tips
 
@@ -155,13 +154,6 @@ Know your bottom line [23]
 
 ## TODO: To process
 
-- http://www.how-to-negotiate.com/personal-negotiating/
-- https://en.wikipedia.org/wiki/Dispute_resolution
-- https://en.wikipedia.org/wiki/Alternative_dispute_resolution
-- https://en.wikipedia.org/wiki/Leadership
-- https://en.wikipedia.org/wiki/Program_on_Negotiation
-- https://en.wikipedia.org/wiki/List_of_books_about_negotiation
-- http://lifehacker.com/tag/negotiation?startIndex=100
 - https://www.wired.com/2011/12/do-nice-guys-finish-last/
 - http://lifehacker.com/5843302/how-should-i-ask-for-a-raise-when-i-feel-underpaid-and-overworked
 - http://www.alistapart.com/articles/no-one-nos-learning-to-say-no-to-bad-ideas/
@@ -170,6 +162,7 @@ Know your bottom line [23]
 - https://www.americanexpress.com/en-us/business/trends-and-insights/keywords/negotiating/
 - https://www.americanexpress.com/en-us/business/trends-and-insights/topics/negotiations/
 - https://lifehacker.com/why-you-shouldnt-argue-in-a-negotiation-5826003
+- http://lifehacker.com/tag/negotiation?startIndex=100
 
 ## Books
 
@@ -180,6 +173,7 @@ Know your bottom line [23]
 - https://www.amazon.com/You-Dont-Ask-Get/dp/0984439404/
 - "Getting More" - by Stuart Diamond
 - "Negotiation: Theory and Strategy, 2nd edition", by Wolters Kluwer Law and Business, 2009
+- https://en.wikipedia.org/wiki/List_of_books_about_negotiation
 
 ## Sources
 
@@ -195,6 +189,7 @@ Know your bottom line [23]
 - <a id="a20">[20]</a> [How to Be a Better Negotiator](https://www.scientificamerican.com/article/how-to-be-a-better-negotiator/)
 - <a id="a21">[21]</a> [Hostage Negotiation Techniques That Will Get You What You Want](http://www.bakadesuyo.com/2013/06/hostage-negotiation/)
 - <a id="a22">[22]</a> [You can negotiate anything](https://www.getrichslowly.org/you-can-negotiate-anything/)
+- <a id="a23">[23]</a> http://www.how-to-negotiate.com/personal-negotiating/
 - <a id="a26">[26]</a> https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
 - <a id="a27">[27]</a> https://lifehacker.com/how-to-inflate-tasks-and-extend-due-dates-1455424470
 - <a id="a28">[28]</a> https://jamesaltucher.com/blog/how-to-negotiate-in-three-easy-lessons/

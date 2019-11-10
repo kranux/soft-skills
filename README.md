@@ -128,6 +128,10 @@ Haggle
 - http://lifehacker.com/10-things-you-should-always-haggle-for-505136600
 - http://lifehacker.com/5886041/when-is-it-worth-haggling-for-a-better-price
 
+## TODO: To process
+
+- https://en.wikipedia.org/wiki/Leadership
+
 Books
 
 - https://www.amazon.co.uk/Win-winning-result-persuasive-negotiations/dp/1292074086/ref=sr_1_2?s=books&ie=UTF8&qid=1493877119&sr=1-2&keywords=negotiation
@@ -148,5 +152,4 @@ Sources
 - [8] https://www.quora.com/What-is-the-difference-between-persuasion-and-negotiation
 - [10] https://en.wikipedia.org/wiki/Negotiation
 - [16] http://www.bakadesuyo.com/2016/05/how-to-be-persuasive/
-- [23] http://www.how-to-negotiate.com/personal-negotiating/
 - [24] https://www.farnamstreetblog.com/2014/06/winning-an-argument/
