@@ -8,6 +8,7 @@
 
 - Do your homework - collect information / data on price, salary, cost, etc. <a href="#a29">[29]</a> <a href="#a31">[31]</a>
 - Make a list of items you want from negotiation and why / define your goals clearly. <a href="#a32">[32]</a> <a href="#a13">[13]</a>
+- Make a list of your current contributions. <a href="#a33">[33]</a>
 - Make sure the person you are negotiating with has the authority to commit to what you want; if they don’t, don’t negotiate. <a href="#a29">[29]</a>
 - Practice beforehand. <a href="#a31">[31]</a>
 - Sleep late - Carl Icahn, one of the best investors in the world, uses this technique: He schedules his negotiations for the early evening, sleep until 4pm and then go to the negotiation at 6pm. Our peak mental ability (according to Dan Ariely) is approximately 2 hours after we wake up until about 4 hours after we wake up. <a href="#a26">[26]</a>
@@ -154,8 +155,6 @@ Time also plays a role. In negotiations, the side with the most time generally h
 
 ## TODO: To process
 
-- https://www.wired.com/2011/12/do-nice-guys-finish-last/
-- http://lifehacker.com/5843302/how-should-i-ask-for-a-raise-when-i-feel-underpaid-and-overworked
 - http://www.alistapart.com/articles/no-one-nos-learning-to-say-no-to-bad-ideas/
 - The Harvard Negotiation Project https://www.pon.harvard.edu/category/research_projects/harvard-negotiation-project/ [10]
 - http://www.getrichslowly.org/blog/2009/12/08/you-can-negotiate-anything/
@@ -198,4 +197,5 @@ Time also plays a role. In negotiations, the side with the most time generally h
 - <a id="a29">[29]</a> https://www.americanexpress.com/en-us/business/trends-and-insights/articles/you-dont-get-what-you-deserveyou-get-what-you-negotiate/
 - <a id="a30">[30]</a> [When You Negotiate, Don’t Argue](https://www.psychologytoday.com/blog/ulterior-motives/201107/when-you-negotiate-don-t-argue)
 - <a id="a31">[31]</a> [How to Get Anything You Want with Minimal Negotiation](http://lifehacker.com/5974807/how-to-get-anything-you-want-with-minimal-negotiation)
-- <a id="a32">[32]</a> [ How to Negotiate with Someone More Powerful than You](https://hbr.org/2014/06/how-to-negotiate-with-someone-more-powerful-than-you)
+- <a id="a32">[32]</a> [How to Negotiate with Someone More Powerful than You](https://hbr.org/2014/06/how-to-negotiate-with-someone-more-powerful-than-you)
+- <a id="a33">[33]</a> [How Do I Ask for a Raise When I Feel Underpaid and Overworked?](http://lifehacker.com/5843302/how-should-i-ask-for-a-raise-when-i-feel-underpaid-and-overworked)
