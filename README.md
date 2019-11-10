@@ -130,7 +130,9 @@ Haggle
 
 ## TODO: To process
 
+- https://www.linkedin.com/pulse/12-mind-tricks-make-people-like-you-help-get-ahead-bradberry
 - https://en.wikipedia.org/wiki/Leadership
+- http://www.alistapart.com/articles/no-one-nos-learning-to-say-no-to-bad-ideas/
 
 Books
 

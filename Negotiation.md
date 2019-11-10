@@ -152,15 +152,8 @@ Time also plays a role. In negotiations, the side with the most time generally h
 - Gather and digest the responses
 - Observe the non-verbal reactions
 
-## collections of tips
-
-- https://www.linkedin.com/pulse/12-mind-tricks-make-people-like-you-help-get-ahead-bradberry
-- http://lifehacker.com/five-tips-to-negotiate-better-with-just-about-anyone-493106085
-- https://www.dailyworth.com/posts/1731-9-tricks-to-negotiate-anything
-
 ## TODO: To process
 
-- http://www.alistapart.com/articles/no-one-nos-learning-to-say-no-to-bad-ideas/
 - The Harvard Negotiation Project https://www.pon.harvard.edu/category/research_projects/harvard-negotiation-project/ [10]
 - http://www.getrichslowly.org/blog/2009/12/08/you-can-negotiate-anything/
 - https://www.americanexpress.com/en-us/business/trends-and-insights/keywords/negotiating/
@@ -180,6 +173,7 @@ Time also plays a role. In negotiations, the side with the most time generally h
 - https://en.wikipedia.org/wiki/List_of_books_about_negotiation
 - Stalling for Time: My Life as an FBI Hostage Negotiator by Gary Noesner
 - Crisis Negotiations by Michael McMains and Wayman C. Mullins
+- https://www.goodreads.com/genres/negotiation
 
 ## Sources
 
