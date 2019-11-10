@@ -7,7 +7,7 @@
 ### Prepare for negotiation
 
 - Do your homework - collect information / data on price, salary, cost, etc. <a href="#a29">[29]</a> <a href="#a31">[31]</a>
-- Make a list of items you want from negotiation and why. <a href="#a32">[32]</a>
+- Make a list of items you want from negotiation and why / define your goals clearly. <a href="#a32">[32]</a> <a href="#a13">[13]</a>
 - Make sure the person you are negotiating with has the authority to commit to what you want; if they don’t, don’t negotiate. <a href="#a29">[29]</a>
 - Practice beforehand. <a href="#a31">[31]</a>
 - Sleep late - Carl Icahn, one of the best investors in the world, uses this technique: He schedules his negotiations for the early evening, sleep until 4pm and then go to the negotiation at 6pm. Our peak mental ability (according to Dan Ariely) is approximately 2 hours after we wake up until about 4 hours after we wake up. <a href="#a26">[26]</a>
@@ -15,20 +15,29 @@
 ### Process of negotiation
 
 - Aim high: The more you ask for, the more you’ll get, unless your demands are totally unreasonable. This has been confirmed by extensive research. Make a list of your goals and aspirations and set them high. <a href="#a20">[20]</a> <a href="#a29">[29]</a>
-- Ask questions. <a href="#a32">[32]</a>
+- Ask (open-ended questions)questions. <a href="#a32">[32]</a> <a href="#a13">[13]</a>
 - Be fair: “Good negotiators should always think about how they can show the proposal they're making is fair to both parties,”. <a href="#a20">[20]</a>
 - Be prepared to walk away, <a href="#a29">[29]</a>
+- Clarify any misconceptions. <a href="#a13">[13]</a>
 - Diversify.
 - Document what you agree on. <a href="#a29">[29]</a>
 - Have a bigger list - give up the nickels for the dimes. <a href="#a26">[26]</a>
-- Have everyone agree on a mathematical formula to value an asset or service, Then when you start plugging in the variables, that’s where the real negotiation is occurring and if you know in advance that those numbers are going to be lower than thought, then you will win the negotiation AND everyone will be happy when it’s over. <a href="#a28">[28]</a> <a href="#a26">[26]</a>
+- Have everyone agree on a mathematical formula to value an asset or service / Implement a number scale / Put numbers on things <a href="#a28">[28]</a> <a href="#a26">[26]</a> <a href="#a13">[13]</a>
 - Keep Quiet and Listen for Clues. <a href="#a31">[31]</a>
+- Keep your statements brief. <a href="#a13">[13]</a>
 - Know and control deadlines. <a href="#a29">[29]</a>
-- Know your bottom line <a href="#a23">[23]</a>
+- Know your bottom line. <a href="#a23">[23]</a>
 - Know your value. <a href="#a32">[32]</a>
+- Label your feelings. <a href="#a13">[13]</a>
+- Make the first move / Make the first offer (Anchor) <a href="#a30">[30]</a> <a href="#a13">[13]</a>
+- Pause - encourages the other party to speak-up <a href="#a13">[13]</a>
+- Share information. <a href="#a13">[13]</a>
 - Stay calm and don't argue. <a href="#a31">[31]</a>
 - Strike a power pose. [body language](./README.md#body-language-nonverbal-communication) <a href="#a25">[25]</a>
+- Take a break / Go for a walk. <a href="#a13">[13]</a>
 - Try not to make the first concession. Whoever makes the first one usually gives away more than the other party. Make concessions small, and make them slowly. The opponent should really earn them with lots of persuasion. Never make a concession without getting one back in return. <a href="#a29">[29]</a>
+- Use active listening. <a href="#a21">[21]</a>
+- Use your emotional intelligence. <a href="#a13">[13]</a>
 - When in doubt, shut up! <a href="#a29">[29]</a>
 
 ## Deadlines / Due dates / Projects
@@ -111,15 +120,7 @@ An indaba is designed to allow every party to voice its opinion, but still arriv
 
 ...say the statement: “It seems like there’s nothing you can do.” People do not like to feel powerless, what it does is it makes the other side feel like they might be somewhat powerless. They’re going to want to search for answers. And certainly for someone higher than you in the hierarchy, the last thing they want to look to you, a subordinate, is to look powerless. It threatens their identity and authority. They’re not going to be comfortable saying yes to that. <a href="#a19">[19]</a>
 
-Use active listening:
-Listen to what they say. Don’t interrupt, disagree or “evaluate.”
-Nod your head, and make brief acknowledging comments like “yes” and “uh-huh.”
-Without being awkward, repeat back the gist of what they just said, from their frame of reference.
-Inquire. Ask questions that show you’ve been paying attention and that move the discussion forward. <a href="#a21">[21]</a>
-
 Time also plays a role. In negotiations, the side with the most time generally has an advantage. Patience pays. No matter how pressed you are, you should always keep your cool, maintaining an appearance of calm. "Your deadline is of your own making," Cohen writes. Don't ignore deadlines, but don't follow them blindly, either. <a href="#a22">[22]</a>
-
-If you are involved in a negotiation, it is probably a good idea to make the first offer. That initial offer serves as an anchor. However, after you make that initial offer, resist the temptation to give reasons to justify that initial bid. Instead, let the other party come back with a counteroffer. Chances are, that counteroffer will not be adjusted as far away from your initial offer as it would have been if you had made arguments in your own favor. <a href="#a30">[30]</a>
 
 ## Steps leading to negotiation <a href="#a23">[23]</a>
 
@@ -146,7 +147,6 @@ If you are involved in a negotiation, it is probably a good idea to make the fir
 
 ## collections of tips
 
-- https://www.inc.com/john-rampton/13-negotiation-techniques-that-never-fail.html
 - https://www.inc.com/darren-heitner/5-tips-to-winning-a-big-sports-negotiation.html?cid=sf01001
 - https://www.linkedin.com/pulse/12-mind-tricks-make-people-like-you-help-get-ahead-bradberry
 - http://lifehacker.com/five-tips-to-negotiate-better-with-just-about-anyone-493106085
@@ -174,6 +174,8 @@ If you are involved in a negotiation, it is probably a good idea to make the fir
 - "Getting More" - by Stuart Diamond
 - "Negotiation: Theory and Strategy, 2nd edition", by Wolters Kluwer Law and Business, 2009
 - https://en.wikipedia.org/wiki/List_of_books_about_negotiation
+- Stalling for Time: My Life as an FBI Hostage Negotiator by Gary Noesner
+- Crisis Negotiations by Michael McMains and Wayman C. Mullins
 
 ## Sources
 
