@@ -7,10 +7,11 @@
 ### Prepare for negotiation
 
 - Do your homework - collect information / data on price, salary, cost, etc. <a href="#a29">[29]</a> <a href="#a31">[31]</a>
-- Make a list of items you want from negotiation and why / define your goals clearly. <a href="#a32">[32]</a> <a href="#a13">[13]</a>
-- Make a list of your current contributions. <a href="#a33">[33]</a>
+- Make a list of items you want from negotiation and why / define your goals and interests clearly. <a href="#a32">[32]</a> <a href="#a13">[13]</a> <a href="#a34">[34]</a>
+- Make a list of your current position / contributions. <a href="#a33">[33]</a> <a href="#a34">[34]</a>
 - Make sure the person you are negotiating with has the authority to commit to what you want; if they don’t, don’t negotiate. <a href="#a29">[29]</a>
 - Practice beforehand. <a href="#a31">[31]</a>
+- Research the other side. <a href="#a34">[34]</a>
 - Sleep late - Carl Icahn, one of the best investors in the world, uses this technique: He schedules his negotiations for the early evening, sleep until 4pm and then go to the negotiation at 6pm. Our peak mental ability (according to Dan Ariely) is approximately 2 hours after we wake up until about 4 hours after we wake up. <a href="#a26">[26]</a>
 
 ### Process of negotiation
@@ -21,7 +22,6 @@
 - Be prepared to walk away, <a href="#a29">[29]</a>
 - Clarify any misconceptions. <a href="#a13">[13]</a>
 - Diversify.
-- Document what you agree on. <a href="#a29">[29]</a>
 - Have a bigger list - give up the nickels for the dimes. <a href="#a26">[26]</a>
 - Have everyone agree on a mathematical formula to value an asset or service / Implement a number scale / Put numbers on things <a href="#a28">[28]</a> <a href="#a26">[26]</a> <a href="#a13">[13]</a>
 - Keep Quiet and Listen for Clues. <a href="#a31">[31]</a>
@@ -30,6 +30,7 @@
 - Know your bottom line. <a href="#a23">[23]</a>
 - Know your value. <a href="#a32">[32]</a>
 - Label your feelings. <a href="#a13">[13]</a>
+- Listen and respond, but don't interfere. <a href="#a34">[34]</a>
 - Make the first move / Make the first offer (Anchor) <a href="#a30">[30]</a> <a href="#a13">[13]</a>
 - Pause - encourages the other party to speak-up <a href="#a13">[13]</a>
 - Share information. <a href="#a13">[13]</a>
@@ -40,6 +41,10 @@
 - Use active listening. <a href="#a21">[21]</a>
 - Use your emotional intelligence. <a href="#a13">[13]</a>
 - When in doubt, shut up! <a href="#a29">[29]</a>
+
+### Result of negotiation
+
+- Get it in writing: Document what you agree on. <a href="#a34">[34]</a> <a href="#a29">[29]</a>
 
 ## Deadlines / Due dates / Projects
 
@@ -90,7 +95,8 @@ Types of negotiators: Soft, Hard, Principled <a href="#a10">[10]</a>
 ## Strategies
 
 - Anchoring and adjustment - we start with some anchor point and then adjust our belief about the true value based on other information. <a href="#a30">[30]</a>
-- 15-20 Percent Rule <a href="#a31">[31]</a>
+- 15-20 Percent Rule. <a href="#a31">[31]</a>
+- Cooperation and competition <a href="#a34">[34]</a>
 
 ## Dealing with emotions <a href="#a10">[10]</a>
 
@@ -199,3 +205,4 @@ Time also plays a role. In negotiations, the side with the most time generally h
 - <a id="a31">[31]</a> [How to Get Anything You Want with Minimal Negotiation](http://lifehacker.com/5974807/how-to-get-anything-you-want-with-minimal-negotiation)
 - <a id="a32">[32]</a> [How to Negotiate with Someone More Powerful than You](https://hbr.org/2014/06/how-to-negotiate-with-someone-more-powerful-than-you)
 - <a id="a33">[33]</a> [How Do I Ask for a Raise When I Feel Underpaid and Overworked?](http://lifehacker.com/5843302/how-should-i-ask-for-a-raise-when-i-feel-underpaid-and-overworked)
+- <a id="a34">[34]</a> [5 Tips to Winning a Big Sports Negotiation](https://www.inc.com/darren-heitner/5-tips-to-winning-a-big-sports-negotiation.html)
