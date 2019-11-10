@@ -154,7 +154,6 @@ Time also plays a role. In negotiations, the side with the most time generally h
 
 ## collections of tips
 
-- https://www.inc.com/darren-heitner/5-tips-to-winning-a-big-sports-negotiation.html?cid=sf01001
 - https://www.linkedin.com/pulse/12-mind-tricks-make-people-like-you-help-get-ahead-bradberry
 - http://lifehacker.com/five-tips-to-negotiate-better-with-just-about-anyone-493106085
 - https://www.dailyworth.com/posts/1731-9-tricks-to-negotiate-anything
