@@ -75,6 +75,7 @@ Influence others
 - https://www.amazon.com/Mastering-Conversational-Hypnosis-Psychology-Influence-ebook/dp/B00KHTU5GS/ref=sr_1_3?ie=UTF8&qid=1404761329&sr=8-3&keywords=psychology+tricks&tag=lv-ah-hist-20 [7]
 - https://www.amazon.com/Words-That-Work-What-People/dp/1401309291/ [8]
 - https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/ [8]
+- https://lifelessons.co/personal-development/nlpinfluencepersuasion/
 
 Persuasion
 noun, įtikinėjimas, įtikinimas, įkalbinėjimas
