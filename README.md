@@ -47,6 +47,7 @@ Initial work was done in Evernote app with periodic email check-in with my manag
 - story-telling,
 - winning people,
 - public speaking,
+- build trust,
 
 ## Convincing others
 
@@ -134,6 +135,10 @@ Haggle
 Public speaking
 
 - https://hbr.org/2018/02/5-ways-to-get-over-your-fear-of-public-speaking
+
+Build trust
+
+- https://medium.com/personal-growth/an-fbi-behaviour-expert-explains-how-to-quickly-build-trust-with-anyone-94a05be01cea
 
 ## TODO: To process
 
