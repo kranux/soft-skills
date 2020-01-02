@@ -46,6 +46,7 @@ Initial work was done in Evernote app with periodic email check-in with my manag
 - presenting,
 - story-telling,
 - winning people,
+- public speaking,
 
 ## Convincing others
 
@@ -129,6 +130,10 @@ Haggle
 - http://lifehacker.com/why-i-love-to-haggle-and-how-you-can-get-started-1460391867
 - http://lifehacker.com/10-things-you-should-always-haggle-for-505136600
 - http://lifehacker.com/5886041/when-is-it-worth-haggling-for-a-better-price
+
+Public speaking
+
+- https://hbr.org/2018/02/5-ways-to-get-over-your-fear-of-public-speaking
 
 ## TODO: To process
 
