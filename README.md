@@ -92,6 +92,7 @@ People will do things that aren’t in their best interest, just to prove to you
 - http://www.bakadesuyo.com/2016/05/how-to-be-persuasive/
 - https://www.farnamstreetblog.com/2014/06/winning-an-argument/
 - https://www.farnamstreetblog.com/2012/12/the-difference-between-persuading-and-convincing/
+- https://www.goodreads.com/book/show/865508.Verbal_Judo?ac=1&from_search=true&qid=zfYwHgKTCY&rank=1
 
 Reasoning, argumentation
 
