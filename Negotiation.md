@@ -158,6 +158,7 @@ Time also plays a role. In negotiations, the side with the most time generally h
 - https://www.americanexpress.com/en-us/business/trends-and-insights/topics/negotiations/
 - https://lifehacker.com/why-you-shouldnt-argue-in-a-negotiation-5826003
 - http://lifehacker.com/tag/negotiation?startIndex=100
+- https://thepowermoves.com/dirty-negotiation-tactics/
 
 ## Books
 
