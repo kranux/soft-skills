@@ -192,7 +192,8 @@ Time also plays a role. In negotiations, the side with the most time generally h
 - <a id="a26">[26]</a> https://www.quora.com/Negotiation/Why-are-some-people-better-negotiators-than-others
 - <a id="a27">[27]</a> https://lifehacker.com/how-to-inflate-tasks-and-extend-due-dates-1455424470
 - <a id="a28">[28]</a> https://jamesaltucher.com/blog/how-to-negotiate-in-three-easy-lessons/
-- <a id="a29">[29]</a> https://www.americanexpress.com/en-us/business/trends-and-insights/articles/you-dont-get-what-you-deserveyou-get-what-you-negotiate/
+- <a id="a29">[29]</a> [You Don’t Get What You Deserve—You Get What You Negotiate
+](https://www.americanexpress.com/en-us/business/trends-and-insights/articles/you-dont-get-what-you-deserveyou-get-what-you-negotiate/)
 - <a id="a30">[30]</a> [When You Negotiate, Don’t Argue](https://www.psychologytoday.com/blog/ulterior-motives/201107/when-you-negotiate-don-t-argue)
 - <a id="a31">[31]</a> [How to Get Anything You Want with Minimal Negotiation](http://lifehacker.com/5974807/how-to-get-anything-you-want-with-minimal-negotiation)
 - <a id="a32">[32]</a> [How to Negotiate with Someone More Powerful than You](https://hbr.org/2014/06/how-to-negotiate-with-someone-more-powerful-than-you)
