@@ -82,7 +82,7 @@ Influence others
 - https://lifelessons.co/personal-development/nlpinfluencepersuasion/
 
 Persuasion
-noun, įtikinėjimas, įtikinimas, įkalbinėjimas
+noun
 ‘to persuade’ is: "to cause (someone) to do something by asking, arguing, or giving reasons". [5]
 
 If you want to win an argument, ask the person trying to convince you of something to explain how it would work. [24]
