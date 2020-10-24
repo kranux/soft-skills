@@ -2,14 +2,16 @@
 
 ## How it started
 
-During routine 1:1 meeting with my HR manager we agreed that it would be really beneficial for my further career to work harder on soft (professional / human) skills. That's why we formed an initial (seed sentence):
+During a routine 1:1 meeting with my HR manager we agreed that it would be really beneficial for my further career to work harder on soft (professional / human) skills. That's why we formed an initial (seed sentence):
 
 > "Investigate possible learning sources about negotiation, selling and convincing others about your own solutions"
 
-Main focus was to collect online articles on topic.
-After initial research and some googling I had quite a big list of articles to process and some keywords I'm interested in.
+My main focus was to collect online articles on the topic.
+After initial research and some googling I had quite a big list of articles to process and some keywords I was interested in.
 
-Initial work was done in Evernote app with periodic email check-in with my manager. Later on I decided that it would be easier to manage work using Github repository of Markdown files.
+Initial work was done in Evernote app with periodic email check-in with my manager. Later on I decided that it would be easier to manage the work using Github repository of Markdown files.
+
+So here we are.
 
 ### Keywords
 
