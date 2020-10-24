@@ -46,6 +46,14 @@
 
 - Get it in writing: Document what you agree on. <a href="#a34">[34]</a> <a href="#a29">[29]</a>
 
+## Salary negotiation
+
+### Tips
+
+- Talk about your value: have a list of items
+- Do a market research
+- Give a number not a range
+
 ## Deadlines / Due dates / Projects
 
 - Use Scotty Principle: When asked how long a job will take, estimate the time required to complete the job, add about 25% - 50% onto that estimate, and commit to the longer estimate. <a href="#a27">[27]</a>
