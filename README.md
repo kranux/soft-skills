@@ -57,6 +57,7 @@ So here we are.
 - http://www.wikihow.com/Convince-Anyone-of-Anything
 - http://www.personalitytutor.com/how-to-convince-others.html
 - https://www.farnamstreetblog.com/2014/04/daniel-pink-to-sell-is-human/
+- [Motivational interview](https://en.wikipedia.org/wiki/Motivational_interviewing) [25]
 
 ## Selling ideas
 
@@ -169,3 +170,4 @@ Sources
 - [10] https://en.wikipedia.org/wiki/Negotiation
 - [16] http://www.bakadesuyo.com/2016/05/how-to-be-persuasive/
 - [24] https://www.farnamstreetblog.com/2014/06/winning-an-argument/
+- [25] ["Think Again: The Power of Knowing What You Don't Know" by Adam M. Grant](https://www.goodreads.com/book/show/55539565-think-again)
