@@ -83,6 +83,12 @@
 
 Types of negotiators: Soft, Hard, Principled <a href="#a10">[10]</a>
 
+> "The *soft* negotiator wants to avoid personal conflict and so makes consessions readily to reach agreement." - from "Getting to yes"
+
+> "The *hard* negotiator sees any situation as a contest of wills in which the side that takes the more extreeme positions and holds out longer fares better. He or she wants to win;" - from "Getting to yes"
+
+> "a way neither hard nor soft, but rather both hard and soft. The method of *principled negotiation* developed at the Harvard Negotiation Project is to decide issues on their merits rather than through a haggling process focused on what each side says it will and won't do. It suggests that you look for mutual gains whenever possible, and that where interests conflict, you should insist that the result be based on some fair standards independent of the will of either side. The method of principled negotiation is hard on the merits, soft on the people. It employs no tricks and no posturing." - from "Getting to yes"
+ 
 ## Tactics <a href="#a10">[10]</a>
 
 - Auction
