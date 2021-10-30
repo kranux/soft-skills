@@ -97,6 +97,7 @@ Types of negotiators: Soft, Hard, Principled <a href="#a10">[10]</a>
 - The Nibble
 - Snow Job
 - Mirroring
+> Mirrors work magic. Repeat the last three words (or the critical one to three words) of what someone has just said. We fear what’s different and are drawn to what’s similar. Mirroring is the art of insinuating similarity, which facilitates bonding. (from "Never split the difference" - Chris Voss)
 - Scotting
 
 ## Strategies
