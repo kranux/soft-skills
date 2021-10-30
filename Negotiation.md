@@ -56,8 +56,8 @@
 ## Deadlines / Due dates / Projects
 
 - Use Scotty Principle: When asked how long a job will take, estimate the time required to complete the job, add about 25% - 50% onto that estimate, and commit to the longer estimate. <a href="#a27">[27]</a>
-- Deal In Deliverables, Not Deadlines. <a href="#a27">[27]</a>
-- Keep the Details To Yourself Until Asked. <a href="#a27">[27]</a>
+- Deal in deliverables, not deadlines. <a href="#a27">[27]</a>
+- Keep the details to yourself until asked. <a href="#a27">[27]</a>
 
 ## Types <a href="#a10">[10]</a>
 
