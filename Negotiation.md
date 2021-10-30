@@ -169,6 +169,7 @@ Time also plays a role. In negotiations, the side with the most time generally h
 
 ## Books
 
+- "Never split the difference" - Chris Voss [Goodreads 4.3 ⭐](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
 - "Getting to Yes" - Fisher et al <a href="#a10">[10]</a>
 - "The Negotiator's Fieldbook: The Desk Reference for the Experienced Negotiator" - https://www.amazon.co.uk/gp/product/1590315456/
 - "Negotiation Boot Camp: How to Resolve Conflict, Satisfy Customers, and Make Better Deals" - https://www.amazon.com/Negotiation-Boot-Camp-Conflict-Customers/dp/1499172702
