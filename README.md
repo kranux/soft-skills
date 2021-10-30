@@ -154,7 +154,7 @@ Books
 
 - https://www.amazon.co.uk/Win-winning-result-persuasive-negotiations/dp/1292074086/ref=sr_1_2?s=books&ie=UTF8&qid=1493877119&sr=1-2&keywords=negotiation
 - https://www.amazon.co.uk/gp/product/006124189X/ref=s9_acsd_simh_hd_bw_b17GB_c_x_4_w?pf_rd_m=A3P5ROKL5A1OLE&pf_rd_s=merchandised-search-4&pf_rd_r=21SR4P0G5YK1F3ANY8HX&pf_rd_t=101&pf_rd_p=fd347e45-37c2-5ef7-938e-e2348b8d0a86&pf_rd_i=266239
-- O aš dar pats sau planuoju įsigyt https://www.amazon.co.uk/Turn-Ship-Around-Create-Leadership-x/dp/1608323749/ref=sr_1_1?s=books&ie=UTF8&qid=1493877246&sr=1-1&keywords=how+to+turn+ship+around , tai vėliau galėsiu paskolint.
+- https://www.amazon.co.uk/Turn-Ship-Around-Create-Leadership-x/dp/1608323749/ref=sr_1_1?s=books&ie=UTF8&qid=1493877246&sr=1-1&keywords=how+to+turn+ship+around
 - https://www.amazon.co.uk/gp/product/1590315456/ref=as_li_qf_sp_asin_il_tl?tag=farstrblo-21&ie=UTF8&camp=1789&creative=9325&linkCode=as2&creativeASIN=1590315456&linkId=94d7a1864c77afc88e3af16a0bc09485
 
 Sources
