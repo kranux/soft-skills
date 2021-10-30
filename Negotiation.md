@@ -16,7 +16,7 @@
 ### Process of negotiation
 
 - Aim high: The more you ask for, the more you’ll get, unless your demands are totally unreasonable. This has been confirmed by extensive research. Make a list of your goals and aspirations and set them high. <a href="#a20">[20]</a> <a href="#a29">[29]</a>
-- Ask (open-ended questions) questions. <a href="#a32">[32]</a> <a href="#a13">[13]</a>
+- Ask (open-ended) questions. <a href="#a32">[32]</a> <a href="#a13">[13]</a>
 - Be fair: “Good negotiators should always think about how they can show the proposal they're making is fair to both parties”. <a href="#a20">[20]</a>
 - Be prepared to walk away. <a href="#a29">[29]</a>
 - Clarify any misconceptions. <a href="#a13">[13]</a>
