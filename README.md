@@ -24,12 +24,12 @@ So here we are.
 
 #### Secondary
 
-- argumentation,
+- [argumentation](#reasoning-argumentation)
 - assertiveness,
-- influence others,
-- persuasion,
+- [influence others](#influence-others)
+- [persuasion](#persuasion)
 - pitching ideas,
-- reasoning,
+- [reasoning](#reasoning-argumentation)
 
 #### Tertiary
 
@@ -82,7 +82,8 @@ So here we are.
 - https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/ [8]
 - https://lifelessons.co/personal-development/nlpinfluencepersuasion/
 
-Persuasion
+### Persuasion
+
 noun
 ‘to persuade’ is: "to cause (someone) to do something by asking, arguing, or giving reasons". [5]
 
