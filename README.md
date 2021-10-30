@@ -75,7 +75,7 @@ So here we are.
 - https://www.lynda.com/Business-Skills-tutorials/Selling-your-ideas/126132/171695-4.html
 - https://www.fastcompany.com/3031620/6-unconventional-tips-for-selling-your-big-ideas
 
-Influence others
+### Influence others
 
 - https://www.amazon.com/Mastering-Conversational-Hypnosis-Psychology-Influence-ebook/dp/B00KHTU5GS/ref=sr_1_3?ie=UTF8&qid=1404761329&sr=8-3&keywords=psychology+tricks&tag=lv-ah-hist-20 [7]
 - https://www.amazon.com/Words-That-Work-What-People/dp/1401309291/ [8]
@@ -100,7 +100,7 @@ People will do things that aren’t in their best interest, just to prove to you
 - https://www.farnamstreetblog.com/2012/12/the-difference-between-persuading-and-convincing/
 - https://www.goodreads.com/book/show/865508.Verbal_Judo?ac=1&from_search=true&qid=zfYwHgKTCY&rank=1
 
-Reasoning, argumentation
+### Reasoning, argumentation
 
 - http://rebirthofreason.com/Articles/Kayton/The_Ransberger_Pivot.shtml
 - http://media-cache-ec0.pinimg.com/736x/23/2c/fd/232cfd16f0281d4c07e39acd2ee300b7.jpg
