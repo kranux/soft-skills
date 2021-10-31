@@ -41,6 +41,8 @@
 > "Standard techniques of good listening are to pay close attention to what is said, to ask the other party to spell out carefully and clearly exactly what they mean, and to request that ideas be repeated if there is any ambiguity or uncertainty." - from "Getting to yes"
 - Use your emotional intelligence. <a href="#a13">[13]</a>
 - When in doubt, shut up! <a href="#a29">[29]</a>
+- Speak about yourself, not about them
+> "Say 'We feel discriminated against' rather than 'You're a racist.'" - from "Getting to yes"
 
 ### Result of negotiation
 
