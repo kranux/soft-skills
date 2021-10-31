@@ -28,7 +28,7 @@
 - Know and control deadlines. <a href="#a29">[29]</a>
 - Know your bottom line. <a href="#a23">[23]</a>
 - Know your value. <a href="#a32">[32]</a>
-- Label your feelings. <a href="#a13">[13]</a>
+- [Label](https://en.m.wikipedia.org/wiki/Labelling) your feelings. <a href="#a13">[13]</a>
 - Listen and respond, but don't interfere. <a href="#a34">[34]</a>
 - Make the first move / offer (Anchor) and then adjust. <a href="#a30">[30]</a> <a href="#a13">[13]</a> 
 - Pause - encourages the other party to speak-up. <a href="#a13">[13]</a>
