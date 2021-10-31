@@ -73,9 +73,9 @@
 - Discuss each other's perceptions
 - Find opportunities to act inconsistently with his or her views
 - Face-saving
-- 
-listening
+- Listening
 - Speak for a purpose
+> "Before making a significant statement, know what you want to communicate or find out, and know what purpose this information will serve."  - from "Getting to yes"
 
 ## Conflict styles <a href="#a10">[10]</a>
 
