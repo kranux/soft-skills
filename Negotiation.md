@@ -38,6 +38,7 @@
 - Take a break / Go for a walk. <a href="#a13">[13]</a>
 - Try not to make the first concession. Whoever makes the first one usually gives away more than the other party. Make concessions small, and make them slowly. The opponent should really earn them with lots of persuasion. Never make a concession without getting one back in return. <a href="#a29">[29]</a>
 - Use active listening. <a href="#a21">[21]</a>
+> "Standard techniques of good listening are to pay close attention to what is said, to ask the other party to spell out carefully and clearly exactly what they mean, and to request that ideas be repeated if there is any ambiguity or uncertainty." - from "Getting to yes"
 - Use your emotional intelligence. <a href="#a13">[13]</a>
 - When in doubt, shut up! <a href="#a29">[29]</a>
 
@@ -70,7 +71,8 @@
 - Discuss each other's perceptions
 - Find opportunities to act inconsistently with his or her views
 - Face-saving
-- Active listening
+- 
+listening
 - Speak for a purpose
 
 ## Conflict styles <a href="#a10">[10]</a>
