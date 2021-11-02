@@ -11,7 +11,6 @@
 - Make a list of your current position / contributions. <a href="#a33">[33]</a> <a href="#a34">[34]</a>
 - Make sure the person you are negotiating with has the authority to commit to what you want; if they don’t, don’t negotiate. <a href="#a29">[29]</a>
 - Practice beforehand. <a href="#a31">[31]</a>
-- Sleep late - Carl Icahn, one of the best investors in the world, uses this technique: He schedules his negotiations for the early evening, sleep until 4pm and then go to the negotiation at 6pm. Our peak mental ability (according to Dan Ariely) is approximately 2 hours after we wake up until about 4 hours after we wake up. <a href="#a26">[26]</a>
 
 ### Process of negotiation
 
