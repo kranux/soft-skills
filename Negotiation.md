@@ -11,6 +11,7 @@
 - Make a list of your current position / contributions. <a href="#a33">[33]</a> <a href="#a34">[34]</a>
 - Make sure the person you are negotiating with has the authority to commit to what you want; if they don’t, don’t negotiate. <a href="#a29">[29]</a>
 - Practice beforehand. <a href="#a31">[31]</a>
+- Develop your [BATNA](https://www.pon.harvard.edu/daily/batna/translate-your-batna-to-the-current-deal/) (Best Alternative to a Negotiated Agreement)
 
 ### Process of negotiation
 
