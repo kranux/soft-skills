@@ -30,7 +30,7 @@
 - Know your value. <a href="#a32">[32]</a>
 - [Label](https://en.m.wikipedia.org/wiki/Labelling) your feelings. <a href="#a13">[13]</a>
 - Listen and respond, but don't interfere. <a href="#a34">[34]</a>
-- Make the first move / offer (Anchor) and then adjust. <a href="#a30">[30]</a> <a href="#a13">[13]</a> 
+- Make the first move / offer (Anchor) and then adjust. <a href="#a30">[30]</a> <a href="#a13">[13]</a>
 - Pause - encourages the other party to speak-up. <a href="#a13">[13]</a>
 - Share information. <a href="#a13">[13]</a>
 - Stay calm and don't argue. <a href="#a31">[31]</a>
@@ -92,7 +92,7 @@ Types of negotiators: Soft, Hard, Principled <a href="#a10">[10]</a>
 > "The *hard* negotiator sees any situation as a contest of wills in which the side that takes the more extreeme positions and holds out longer fares better. He or she wants to win;" - from "Getting to yes"
 
 > "a way neither hard nor soft, but rather both hard and soft. The method of *principled negotiation* developed at the Harvard Negotiation Project is to decide issues on their merits rather than through a haggling process focused on what each side says it will and won't do. It suggests that you look for mutual gains whenever possible, and that where interests conflict, you should insist that the result be based on some fair standards independent of the will of either side. The method of principled negotiation is hard on the merits, soft on the people. It employs no tricks and no posturing." - from "Getting to yes"
- 
+
 ## Tactics <a href="#a10">[10]</a>
 
 - Auction
@@ -192,6 +192,7 @@ Time also plays a role. In negotiations, the side with the most time generally h
 - Stalling for Time: My Life as an FBI Hostage Negotiator by Gary Noesner
 - Crisis Negotiations by Michael McMains and Wayman C. Mullins
 - https://www.goodreads.com/genres/negotiation
+- https://www.goodreads.com/shelf/show/negotiation
 
 ## Sources
 
