@@ -53,7 +53,6 @@ So here we are.
 
 ## Convincing others
 
-- https://www.reddit.com/r/changemyview/ [09]
 - http://www.wikihow.com/Convince-Anyone-of-Anything
 - http://www.personalitytutor.com/how-to-convince-others.html
 - https://www.farnamstreetblog.com/2014/04/daniel-pink-to-sell-is-human/
