@@ -1,4 +1,4 @@
-# [WIP] Soft Skills: negotiation, selling ideas, convincing others, etc
+# Soft Skills: negotiation, selling ideas, convincing others, etc
 
 ## How it started
 
