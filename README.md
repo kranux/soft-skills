@@ -9,7 +9,7 @@ During a routine 1:1 meeting with my HR manager we agreed that it would be reall
 My main focus was to collect online articles on the topic.
 After initial research and some googling I had quite a big list of articles to process and some keywords I was interested in.
 
-Initial work was done in Evernote app with periodic email check-in with my manager. Later on I decided that it would be easier to manage the work using Github repository of Markdown files.
+Initial work was done in Evernote app with periodic email check-ins with my manager. Later on I decided that it would be easier to manage the work using GitHub repository of Markdown files.
 
 So here we are.
 
@@ -53,7 +53,7 @@ So here we are.
 
 ## Convincing others
 
-- https://www.reddit.com/r/changemyview/ [9]
+- https://www.reddit.com/r/changemyview/ [09]
 - http://www.wikihow.com/Convince-Anyone-of-Anything
 - http://www.personalitytutor.com/how-to-convince-others.html
 - https://www.farnamstreetblog.com/2014/04/daniel-pink-to-sell-is-human/
@@ -77,15 +77,15 @@ So here we are.
 
 ### Influence others
 
-- https://www.amazon.com/Mastering-Conversational-Hypnosis-Psychology-Influence-ebook/dp/B00KHTU5GS/ref=sr_1_3?ie=UTF8&qid=1404761329&sr=8-3&keywords=psychology+tricks&tag=lv-ah-hist-20 [7]
-- https://www.amazon.com/Words-That-Work-What-People/dp/1401309291/ [8]
-- https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/ [8]
+- https://www.amazon.com/Mastering-Conversational-Hypnosis-Psychology-Influence-ebook/dp/B00KHTU5GS/ref=sr_1_3?ie=UTF8&qid=1404761329&sr=8-3&keywords=psychology+tricks&tag=lv-ah-hist-20 [07]
+- https://www.amazon.com/Words-That-Work-What-People/dp/1401309291/ [08]
+- https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/ [08]
 - https://lifelessons.co/personal-development/nlpinfluencepersuasion/
 
 ### Persuasion
 
 noun
-‘to persuade’ is: "to cause (someone) to do something by asking, arguing, or giving reasons". [5]
+‘to persuade’ is: "to cause (someone) to do something by asking, arguing, or giving reasons". [05]
 
 If you want to win an argument, ask the person trying to convince you of something to explain how it would work. [24]
 
@@ -115,12 +115,12 @@ Winning an argument
 - https://mindhacks.com/2014/05/26/the-best-way-to-win-an-argument/
 
 Assertiveness
-is the ability to communicate with others in a clear and direct manner. [4]
+is the ability to communicate with others in a clear and direct manner. [04]
 "The Art of telling people what you would like them to do, in a way that they don't feel threatened or put down".
 
 ### Body language, nonverbal communication
 
-- https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are [6]
+- https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are [06]
 - https://en.wikipedia.org/wiki/Nonverbal_communication
 
 Winning people, earn respect, Gain Appreciation
@@ -159,15 +159,15 @@ Books
 
 Sources
 
-- [1] https://www.goodreads.com/shelf/show/negotiation
-- [9] http://www.independent.co.uk/news/science/how-to-convince-some-to-change-their-mind-according-to-science-a6867291.html
-- [2] https://www.facebook.com/SkeptikuDraugija/photos/a.359165814151991.73995.293789854022921/1296310023770894/?type=3&theater
-- [3] https://www.kent.ac.uk/careers/sk/persuading.htm
-- [4] https://www.kent.ac.uk/careers/assertiveness.htm
-- [5] http://www.scotwork.com.au/negotiation-blog/2014/what-is-the-difference-between-negotiation-and-persuasion/
-- [6] https://blog.hubspot.com/sales/a-primer-on-persuasion-tricks-for-convincing-prospects-to-buy#sm.0000025b78z62ye1mrncutcqr8ehw
-- [7] http://listverse.com/2013/02/03/10-psychology-tricks-you-can-use-to-influence-people/
-- [8] https://www.quora.com/What-is-the-difference-between-persuasion-and-negotiation
+- [01] https://www.goodreads.com/shelf/show/negotiation
+- [02] https://www.facebook.com/SkeptikuDraugija/photos/a.359165814151991.73995.293789854022921/1296310023770894/?type=3&theater
+- [03] https://www.kent.ac.uk/careers/sk/persuading.htm
+- [04] https://www.kent.ac.uk/careers/assertiveness.htm
+- [05] http://www.scotwork.com.au/negotiation-blog/2014/what-is-the-difference-between-negotiation-and-persuasion/
+- [06] https://blog.hubspot.com/sales/a-primer-on-persuasion-tricks-for-convincing-prospects-to-buy#sm.0000025b78z62ye1mrncutcqr8ehw
+- [07] http://listverse.com/2013/02/03/10-psychology-tricks-you-can-use-to-influence-people/
+- [08] https://www.quora.com/What-is-the-difference-between-persuasion-and-negotiation
+- [09] http://www.independent.co.uk/news/science/how-to-convince-some-to-change-their-mind-according-to-science-a6867291.html
 - [10] https://en.wikipedia.org/wiki/Negotiation
 - [16] http://www.bakadesuyo.com/2016/05/how-to-be-persuasive/
 - [24] https://www.farnamstreetblog.com/2014/06/winning-an-argument/
