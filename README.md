@@ -159,7 +159,6 @@ Books
 Sources
 
 - [01] https://www.goodreads.com/shelf/show/negotiation
-- [02] https://www.facebook.com/SkeptikuDraugija/photos/a.359165814151991.73995.293789854022921/1296310023770894/?type=3&theater
 - [03] https://www.kent.ac.uk/careers/sk/persuading.htm
 - [04] https://www.kent.ac.uk/careers/assertiveness.htm
 - [05] http://www.scotwork.com.au/negotiation-blog/2014/what-is-the-difference-between-negotiation-and-persuasion/
