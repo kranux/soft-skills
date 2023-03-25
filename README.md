@@ -25,7 +25,7 @@ So here we are.
 #### Secondary
 
 - [argumentation](#reasoning-argumentation)
-- assertiveness,
+- [assertiveness](#assertiveness),
 - [influence others](#influence-others)
 - [persuasion](#persuasion)
 - pitching ideas,
@@ -112,8 +112,8 @@ Winning an argument
 
 - https://mindhacks.com/2014/05/26/the-best-way-to-win-an-argument/
 
-Assertiveness
-is the ability to communicate with others in a clear and direct manner. [04]
+### Assertiveness
+is the ability to communicate with others in a clear and direct manner.
 "The Art of telling people what you would like them to do, in a way that they don't feel threatened or put down".
 
 ### Body language, nonverbal communication
@@ -157,8 +157,6 @@ Books
 
 Sources
 
-- [03] https://www.kent.ac.uk/careers/sk/persuading.htm
-- [04] https://www.kent.ac.uk/careers/assertiveness.htm
 - [05] http://www.scotwork.com.au/negotiation-blog/2014/what-is-the-difference-between-negotiation-and-persuasion/
 - [06] https://blog.hubspot.com/sales/a-primer-on-persuasion-tricks-for-convincing-prospects-to-buy#sm.0000025b78z62ye1mrncutcqr8ehw
 - [07] http://listverse.com/2013/02/03/10-psychology-tricks-you-can-use-to-influence-people/
