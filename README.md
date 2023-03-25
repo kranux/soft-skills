@@ -62,7 +62,7 @@ So here we are.
 
 - https://blog.hubspot.com/marketing/how-to-sell-ideas#sm.0000025b78z62ye1mrncutcqr8ehw
 - https://www.forbes.com/sites/theyec/2014/04/18/10-steps-for-giving-a-convincing-sales-pitch/#291449242102
-- http://fortune.com/2015/10/15/coworkers-adopt-new-idea/
+- [How to convince coworkers to adopt your new idea](https://archive.is/5IklF)
 - https://blog.bufferapp.com/why-we-buy-into-ideas-how-to-convince-others-of-our-thoughts
 - https://www.goodreads.com/book/show/10321016-pitch-anything
 - https://www.saleshacker.com/pitch-ideas-pyramid-principle/
